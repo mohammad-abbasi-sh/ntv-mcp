@@ -16,6 +16,7 @@ UA = (
 )
 TIMEOUT = 25.0
 PROBE_URL = "https://www.n-tv.de/rss"
+SOURCE = "n-tv.de"
 
 
 class NtvMcpError(RuntimeError):
@@ -67,14 +68,14 @@ def fetch_text(url: str) -> str:
     assert r is not None  # loop always assigns r or raises
     if r.status_code == 403:
         raise NtvMcpError(
-            f"{spec['source']} returned HTTP 403 for {url} (bot wall) — try again later"
+            f"{SOURCE} returned HTTP 403 for {url} (bot wall) — try again later"
         )
     if r.status_code == 429:
         raise NtvMcpError(
-            f"{spec['source']} rate-limited the request (HTTP 429) — try again later"
+            f"{SOURCE} rate-limited the request (HTTP 429) — try again later"
         )
     if r.status_code != 200:
-        raise NtvMcpError(f"{spec['source']} returned HTTP {r.status_code} for {url}")
+        raise NtvMcpError(f"{SOURCE} returned HTTP {r.status_code} for {url}")
     return r.text
 
 
