@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Börse</title>
+        	<link>https://www.n-tv.de/wirtschaft/boerse/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nichts ist spannender als Wirtschaft. Bei n-tv erfahren Sie alles rund um Börse und Finanzen.</description>
+            <lastBuildDate>Tue, 10 Nov 2026 19:05:34 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Börse</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Bierkonzern zückt den Rotstift: Warsteiner trennt sich in NRW von jedem dritten Mitarbeiter</title>
+                <description>Der Warsteiner Konzern zieht die Produktion in Nordrhein-Westfalen an einem einzigen Ort zusammen. Die Marken Herforder und Paderborner wandern an den Stammsitz, die bisherigen Brauereien stehen vor dem Aus. Mehr als 330 Mitarbeiter sind von den Umstrukturierungen betroffen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Warsteiner-trennt-sich-in-NRW-von-jedem-dritten-Mitarbeiter-id31518321.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Warsteiner-trennt-sich-in-NRW-von-jedem-dritten-Mitarbeiter-id31518321.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 18:11:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518400/1794329606/Img_4_3/250/592982069.jpg" width="250" height="188" align="left" />Der Warsteiner Konzern zieht die Produktion in Nordrhein-Westfalen an einem einzigen Ort zusammen. Die Marken Herforder und Paderborner wandern an den Stammsitz, die bisherigen Brauereien stehen vor dem Aus. Mehr als 330 Mitarbeiter sind von den Umstrukturierungen betroffen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518400/1794329606/Img_4_3/250/592982069.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Truth Social verliert weiter Geld: Trumps Netzwerk-Firma verbucht Riesengewinn trotz Minigeschäft</title>
+                <description>Das Unternehmen hinter Donald Trumps Netzwerk Truth Social schließt das vergangene Quartal mit einem Gewinn ab, der den Umsatz um mehr als das Hundertfache übersteigt. Trotz neuer Einnahmen durch einen teuren Exklusivzugang zur Plattform ist das Geschäft weiter defizitär. Das fällt in der Bilanz allerdings kaum ins Gewicht.</description>
+                <link>https://www.n-tv.de/wirtschaft/Trumps-Netzwerk-Firma-verbucht-Riesengewinn-trotz-Minigeschaeft-id31518357.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Trumps-Netzwerk-Firma-verbucht-Riesengewinn-trotz-Minigeschaeft-id31518357.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 17:52:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518299/1794328578/Img_4_3/250/imago0853954417h.jpg" width="250" height="188" align="left" />Das Unternehmen hinter Donald Trumps Netzwerk Truth Social schließt das vergangene Quartal mit einem Gewinn ab, der den Umsatz um mehr als das Hundertfache übersteigt. Trotz neuer Einnahmen durch einen teuren Exklusivzugang zur Plattform ist das Geschäft weiter defizitär. Das fällt in der Bilanz allerdings kaum ins Gewicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518299/1794328578/Img_4_3/250/imago0853954417h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Abzocke beenden&quot;: Preisdeckel für Ticketbörsen soll vor nächstem Sommer kommen</title>
+                <description>Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen. </description>
+                <link>https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:31:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517677/1794324325/Img_4_3/250/601408838.jpg" width="250" height="188" align="left" />Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517677/1794324325/Img_4_3/250/601408838.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Einnahmen in Milliardenhöhe: Anthropic strebt Börsengang mit Billionen-Bewertung an</title>
+                <description>Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.</description>
+                <link>https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:06:32 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg" width="250" height="188" align="left" />Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Umgehung von US-Sanktionen?: Geliebte des Nvidia-Chefs schleuste mutmaßlich KI-Chips nach China</title>
+                <description>Der intime Seitensprung des verheirateten Nvidia-Mitgründers Huang soll Peking laut einem Medienbericht Zugriff auf sensible KI-Technologie ermöglicht haben. Der Verwaltungsrat des Konzerns und das FBI leiten Ermittlungen ein.</description>
+                <link>https://www.n-tv.de/wirtschaft/Geliebte-des-Nvidia-Chefs-schleuste-mutmasslich-KI-Chips-nach-China-id31517600.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Geliebte-des-Nvidia-Chefs-schleuste-mutmasslich-KI-Chips-nach-China-id31517600.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:05:53 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517745/1794323889/Img_4_3/250/626800030.jpg" width="250" height="188" align="left" />Der intime Seitensprung des verheirateten Nvidia-Mitgründers Huang soll Peking laut einem Medienbericht Zugriff auf sensible KI-Technologie ermöglicht haben. Der Verwaltungsrat des Konzerns und das FBI leiten Ermittlungen ein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517745/1794323889/Img_4_3/250/626800030.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>S&amp;P 500 im Check: &quot;Midterms&quot; als idealer Investmentzeitraum?</title>
+                <description>Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um dem S&amp;P 500.</description>
+                <link>https://www.n-tv.de/wirtschaft/boerse/Midterms-als-idealer-Investmentzeitraum-id30347915.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/boerse/Midterms-als-idealer-Investmentzeitraum-id30347915.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 15:48:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517998/1794326080/Img_4_3/250/10.11.mit_Logo.jpg" width="250" height="188" align="left" />Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt: In der aktuellen Folge geht es um dem S&P 500.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517998/1794326080/Img_4_3/250/10.11.mit_Logo.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Iran-Krieg &quot;effektiv vorüber&quot;?: Ölpreis fällt nach Trump-Ankündigung unter 90 Dollar</title>
+                <description>Schon oft kündigt der US-Präsident ein nahes Ende des Iran-Kriegs an. Bisher tritt das aber nicht ein. Das könnte nach den US-Midterms nun anders sein. Der weltweite Ölpreis reagiert auf neuerliche Äußerungen Trumps und gibt nach. </description>
+                <link>https://www.n-tv.de/wirtschaft/Oelpreis-faellt-nach-Trump-Ankuendigung-unter-90-Dollar-id31516850.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Oelpreis-faellt-nach-Trump-Ankuendigung-unter-90-Dollar-id31516850.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 14:56:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517173/1794319286/Img_4_3/250/632145178.jpg" width="250" height="188" align="left" />Schon oft kündigt der US-Präsident ein nahes Ende des Iran-Kriegs an. Bisher tritt das aber nicht ein. Das könnte nach den US-Midterms nun anders sein. Der weltweite Ölpreis reagiert auf neuerliche Äußerungen Trumps und gibt nach. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517173/1794319286/Img_4_3/250/632145178.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trotz Wirtschaftswachstum: IW-Umfrage: Stimmung in Unternehmen durchwachsen </title>
+                <description>Eine neue Umfrage des Instituts der deutschen Wirtschaft zeigt anhaltende Konjunktursorgen. Jedes dritte befragte Unternehmen plant weniger Menschen zu beschäftigen. </description>
+                <link>https://www.n-tv.de/wirtschaft/IW-Umfrage-Unternehmen-erwarten-keinen-Aufschwung-im-naechsten-Jahr-id31516365.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/IW-Umfrage-Unternehmen-erwarten-keinen-Aufschwung-im-naechsten-Jahr-id31516365.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 14:53:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516706/1794315396/Img_4_3/250/396647296.jpg" width="250" height="188" align="left" />Eine neue Umfrage des Instituts der deutschen Wirtschaft zeigt anhaltende Konjunktursorgen. Jedes dritte befragte Unternehmen plant weniger Menschen zu beschäftigen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516706/1794315396/Img_4_3/250/396647296.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Prognose für 15 Jahre: Nahles: 800.000 Jobs werden durch KI wegfallen</title>
+                <description>Grundsätzlich ist niemand mehr immun, sagt Andrea Nahles mit Blick auf den Wegfall von Hunderttausenden Arbeitsplätzen durch den Ausbau von künstlicher Intelligenz. Dennoch: einige Branchen werde es härter treffen als andere.</description>
+                <link>https://www.n-tv.de/wirtschaft/Nahles-800-000-Jobs-werden-durch-KI-wegfallen-id31516258.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Nahles-800-000-Jobs-werden-durch-KI-wegfallen-id31516258.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 13:19:36 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516225/1794311050/Img_4_3/250/576724355.jpg" width="250" height="188" align="left" />Grundsätzlich ist niemand mehr immun, sagt Andrea Nahles mit Blick auf den Wegfall von Hunderttausenden Arbeitsplätzen durch den Ausbau von künstlicher Intelligenz. Dennoch: einige Branchen werde es härter treffen als andere.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516225/1794311050/Img_4_3/250/576724355.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wir sind fassungslos&quot;: Maschinenbauer rechnen in Wutrede mit Merz-Regierung ab</title>
+                <description>Schon vor einem Jahr zeigen sich die deutschen Maschinenbauer empört über die Politik der Bundesregierung. Inzwischen ist die Wut offenbar noch einmal gewachsen, der Chef des Branchenverbandes VDMA erhebt schwere Vorwürfe. </description>
+                <link>https://www.n-tv.de/wirtschaft/Maschinenbauer-rechnen-in-Wutrede-mit-Merz-Regierung-ab-id31516174.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Maschinenbauer-rechnen-in-Wutrede-mit-Merz-Regierung-ab-id31516174.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 12:58:02 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516257/1794311837/Img_4_3/250/561730253.jpg" width="250" height="188" align="left" />Schon vor einem Jahr zeigen sich die deutschen Maschinenbauer empört über die Politik der Bundesregierung. Inzwischen ist die Wut offenbar noch einmal gewachsen, der Chef des Branchenverbandes VDMA erhebt schwere Vorwürfe. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516257/1794311837/Img_4_3/250/561730253.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nur noch 59 Prozent Füllstand: Verband warnt vor Gasengpässen bei Extremwinter</title>
+                <description>Eigentlich müssen die meisten Gasspeicher in Deutschland bis zum 1. November zu mindestens 80 Prozent gefüllt sein. Tatsächlich liegt der Stand in diesem Jahr deutlich niedriger. Das beunruhigt den Verband der Gasspeicherbetreiber.</description>
+                <link>https://www.n-tv.de/wirtschaft/Verband-warnt-vor-Gasengpaessen-bei-Extremwinter-id31514509.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Verband-warnt-vor-Gasengpaessen-bei-Extremwinter-id31514509.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 07:16:44 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31383626/1791217412/Img_4_3/250/559155362.jpg" width="250" height="188" align="left" />Eigentlich müssen die meisten Gasspeicher in Deutschland bis zum 1. November zu mindestens 80 Prozent gefüllt sein. Tatsächlich liegt der Stand in diesem Jahr deutlich niedriger. Das beunruhigt den Verband der Gasspeicherbetreiber.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31383626/1791217412/Img_4_3/250/559155362.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>2026 nur 34 Kilometer mehr: Güterbahnenverband kritisiert Bahn für Schienenbau-Debakel</title>
+                <description>2026 werden lediglich 34 Kilometer Streckennetz der DB Infrago neu gebaut oder instand gesetzt. Viel zu wenig, kritisiert der Verband der privaten Güterbahnen. Und noch weniger als in den Vorjahren. Aber nicht nur hier hakt es massiv bei der Deutschen Bahn.</description>
+                <link>https://www.n-tv.de/wirtschaft/Gueterbahnenverband-kritisiert-Bahn-fuer-Schienenbau-Debakel-id31514486.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Gueterbahnenverband-kritisiert-Bahn-fuer-Schienenbau-Debakel-id31514486.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 06:50:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31514499/1794291359/Img_4_3/250/420472921.jpg" width="250" height="188" align="left" />2026 werden lediglich 34 Kilometer Streckennetz der DB Infrago neu gebaut oder instand gesetzt. Viel zu wenig, kritisiert der Verband der privaten Güterbahnen. Und noch weniger als in den Vorjahren. Aber nicht nur hier hakt es massiv bei der Deutschen Bahn.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31514499/1794291359/Img_4_3/250/420472921.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Deal mit Eigentümerfamilien: Bund lässt sich KNDS-Einstieg 6,6 Milliarden Euro kosten </title>
+                <description>Nach dem geplatzten Börsengang von KNDS steigt der Bund direkt beim deutsch-französischen Rüstungskonzern ein. Der &quot;Spiegel&quot; nennt nun einen konkreten Preis. Er enthält auch einen Aufschlag für entgangene Gewinne. Ein Auftrag für den Boxer-Panzer gerät derweil ins Stocken.  </description>
+                <link>https://www.n-tv.de/wirtschaft/Bund-laesst-sich-KNDS-Einstieg-6-6-Milliarden-Euro-kosten-id31514391.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Bund-laesst-sich-KNDS-Einstieg-6-6-Milliarden-Euro-kosten-id31514391.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 05:44:54 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31514399/1794289149/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach dem geplatzten Börsengang von KNDS steigt der Bund direkt beim deutsch-französischen Rüstungskonzern ein. Der "Spiegel" nennt nun einen konkreten Preis. Er enthält auch einen Aufschlag für entgangene Gewinne. Ein Auftrag für den Boxer-Panzer gerät derweil ins Stocken.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31514399/1794289149/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trump verteidigt Konzernchef: Aktionäre reichen Sammelklage gegen Nvidia ein</title>
+                <description>Das Liebesleben des Nvidia-Chefs wird zum massiven Problem für den Konzern. Wegen der Affäre mit einer mutmaßlichen chinesischen Spionin bricht der Börsenwert ein. Gesetze, gegen die sich der Chip-Riese immer gestemmt hatte, werden wahrscheinlicher. Und jetzt gibt es auch noch eine Sammelklage.   </description>
+                <link>https://www.n-tv.de/wirtschaft/Aktionaere-reichen-Sammelklage-gegen-Nvidia-ein-id31514178.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Aktionaere-reichen-Sammelklage-gegen-Nvidia-ein-id31514178.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 01:51:17 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31514179/1794275228/Img_4_3/250/626304373.jpg" width="250" height="188" align="left" />Das Liebesleben des Nvidia-Chefs wird zum massiven Problem für den Konzern. Wegen der Affäre mit einer mutmaßlichen chinesischen Spionin bricht der Börsenwert ein. Gesetze, gegen die sich der Chip-Riese immer gestemmt hatte, werden wahrscheinlicher. Und jetzt gibt es auch noch eine Sammelklage.   ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31514179/1794275228/Img_4_3/250/626304373.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ölpreis sinkt: US-Aktien erholen sich kräftig - nur Nvidia nicht</title>
+                <description>Die Wall Street hat den Midterms-Schock überwunden: Zum Wochenauftakt legen die US-Börsen kräftig zu, was auch mit einer Äußerung des US-Präsidenten zum Iran zu tun hat. Nvidia-Papiere fassen die Anleger allerdings nur mit spitzen Fingern an.</description>
+                <link>https://www.n-tv.de/wirtschaft/US-Aktien-erholen-sich-kraeftig-nur-Nvidia-nicht-id31514132.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/US-Aktien-erholen-sich-kraeftig-nur-Nvidia-nicht-id31514132.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 22:58:49 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31514145/1794266835/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Wall Street hat den Midterms-Schock überwunden: Zum Wochenauftakt legen die US-Börsen kräftig zu, was auch mit einer Äußerung des US-Präsidenten zum Iran zu tun hat. Nvidia-Papiere fassen die Anleger allerdings nur mit spitzen Fingern an.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31514145/1794266835/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Kompromittierende Situationen&quot;: Verfassungsschutz: Ausländische Geheimdienste wollen Manager in Falle locken</title>
+                <description>Die Affäre des Nvidia-Chefs soll laut Medienberichten Verbindungen zum chinesischen Geheimdienst haben. Auch hierzulande könnten intime Beziehungen von Führungskräften missbraucht werden, warnt das Bundesamt für Verfassungsschutz.</description>
+                <link>https://www.n-tv.de/wirtschaft/Verfassungsschutz-Auslaendische-Geheimdienste-wollen-Manager-in-Falle-locken-id31513875.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Verfassungsschutz-Auslaendische-Geheimdienste-wollen-Manager-in-Falle-locken-id31513875.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 20:26:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31513902/1794254460/Img_4_3/250/619828867.jpg" width="250" height="188" align="left" />Die Affäre des Nvidia-Chefs soll laut Medienberichten Verbindungen zum chinesischen Geheimdienst haben. Auch hierzulande könnten intime Beziehungen von Führungskräften missbraucht werden, warnt das Bundesamt für Verfassungsschutz.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31513902/1794254460/Img_4_3/250/619828867.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Milliarden fürs Schienennetz: Verkehrsminister Bilger kündigt Trendwende bei Bahn-Sanierung an</title>
+                <description>Seit rund 100 Tagen ist Steffen Bilger Bundesverkehrsminister. Er will die Generalsanierung vielbefahrener Bahnstrecken grundlegend ändern. Weniger gleichzeitige Baustellen sollen die Züge pünktlicher machen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-kuendigt-Trendwende-bei-Bahn-Sanierung-an-id31513043.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-kuendigt-Trendwende-bei-Bahn-Sanierung-an-id31513043.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 18:14:10 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31513560/1794248116/Img_4_3/250/628041145.jpg" width="250" height="188" align="left" />Seit rund 100 Tagen ist Steffen Bilger Bundesverkehrsminister. Er will die Generalsanierung vielbefahrener Bahnstrecken grundlegend ändern. Weniger gleichzeitige Baustellen sollen die Züge pünktlicher machen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31513560/1794248116/Img_4_3/250/628041145.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ein Euro mehr: Aldi Süd und Lidl heben firmeneigene Mindestlöhne an</title>
+                <description>Mit Beginn des neuen Jahres steigt die bundesweite Lohnuntergrenze. Die großen Discounter Aldi Süd und Lidl heben in ihren Unternehmen die Bezahlung in der untersten Lohngruppe schon einen Monat früher an und bleiben so oberhalb der staatlichen Vorgabe.</description>
+                <link>https://www.n-tv.de/wirtschaft/16-Euro-pro-Stunde-ALDI-SUeD-und-Lidl-erhoehen-ihren-Mindesteinstiegslohn-schon-im-Dezember-id31512941.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/16-Euro-pro-Stunde-ALDI-SUeD-und-Lidl-erhoehen-ihren-Mindesteinstiegslohn-schon-im-Dezember-id31512941.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 16:22:57 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31512931/1794240330/Img_4_3/250/624744613.jpg" width="250" height="188" align="left" />Mit Beginn des neuen Jahres steigt die bundesweite Lohnuntergrenze. Die großen Discounter Aldi Süd und Lidl heben in ihren Unternehmen die Bezahlung in der untersten Lohngruppe schon einen Monat früher an und bleiben so oberhalb der staatlichen Vorgabe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31512931/1794240330/Img_4_3/250/624744613.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Peinlich für ihn&quot;: Droht Nvidia-Chef Huang nach Spionage-Affäre der Rauswurf?</title>
+                <description>Schlagzeilen um eine Affäre mit einer mutmaßlichen chinesischen Spionin bringen Nvidia-Ikone Huang in Bedrängnis. Während einige Experten ihn für unersetzlich halten, wächst an der Wall Street der Druck – und die Aktie bricht vorbörslich ein.</description>
+                <link>https://www.n-tv.de/wirtschaft/Droht-Nvidia-Chef-Huang-nach-Spionage-Affaere-der-Rauswurf-id31512274.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Droht-Nvidia-Chef-Huang-nach-Spionage-Affaere-der-Rauswurf-id31512274.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 15:00:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31512352/1794234918/Img_4_3/250/570231380.jpg" width="250" height="188" align="left" />Schlagzeilen um eine Affäre mit einer mutmaßlichen chinesischen Spionin bringen Nvidia-Ikone Huang in Bedrängnis. Während einige Experten ihn für unersetzlich halten, wächst an der Wall Street der Druck – und die Aktie bricht vorbörslich ein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31512352/1794234918/Img_4_3/250/570231380.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Spionin im Dienste Chinas?: Die Frau, die den Nvidia-Chef in die Honigfalle lockte</title>
+                <description>Die Affäre ist höchstpeinlich für Nvidia-Chef Jensen Huang: Eine mutmaßliche chinesische Spionin soll seine Geliebte gewesen sein. Doch wer genau ist die Frau und was ist über ihre Beziehung zu Huang bekannt?</description>
+                <link>https://www.n-tv.de/wirtschaft/Die-Frau-die-den-Nvidia-Chef-in-die-Honigfalle-lockte-id31511718.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Die-Frau-die-den-Nvidia-Chef-in-die-Honigfalle-lockte-id31511718.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 14:29:38 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31511873/1794230697/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Affäre ist höchstpeinlich für Nvidia-Chef Jensen Huang: Eine mutmaßliche chinesische Spionin soll seine Geliebte gewesen sein. Doch wer genau ist die Frau und was ist über ihre Beziehung zu Huang bekannt?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31511873/1794230697/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unternehmen will sparen: Vodafone streicht 2300 Stellen in Deutschland</title>
+                <description>Der Mobilfunkkonzern Vodafone steht nach eigenen Angaben unter wirtschaftlichem Druck. Deswegen reagiert der Konzern nun mit harten Maßnahmen. </description>
+                <link>https://www.n-tv.de/wirtschaft/Vodafone-streicht-2-300-Stellen-in-Deutschland-Marcel-De-Groot-begruendet-Stellenabbau-id31511540.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Vodafone-streicht-2-300-Stellen-in-Deutschland-Marcel-De-Groot-begruendet-Stellenabbau-id31511540.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 14:22:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31511469/1794226323/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der Mobilfunkkonzern Vodafone steht nach eigenen Angaben unter wirtschaftlichem Druck. Deswegen reagiert der Konzern nun mit harten Maßnahmen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31511469/1794226323/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Geheimes Spitzentreffen: BASF umgarnt Evonik und blitzt erneut ab</title>
+                <description>BASF will Evonik übernehmen. Der Essener Konkurrent hält von der Idee jedoch wenig, auch ein Spitzentreffen am Wochenende bringt keine Annäherung. Ein Grund dafür: Evonik hat eigene Expansionspläne.</description>
+                <link>https://www.n-tv.de/wirtschaft/BASF-umgarnt-Evonik-und-blitzt-erneut-ab-id31512022.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/BASF-umgarnt-Evonik-und-blitzt-erneut-ab-id31512022.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 14:22:06 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31512051/1794232437/Img_4_3/250/544641020.jpg" width="250" height="188" align="left" />BASF will Evonik übernehmen. Der Essener Konkurrent hält von der Idee jedoch wenig, auch ein Spitzentreffen am Wochenende bringt keine Annäherung. Ein Grund dafür: Evonik hat eigene Expansionspläne.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31512051/1794232437/Img_4_3/250/544641020.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Was wollte Chinas Geheimdienst? : Was über die Nvidia-Spionageaffäre bekannt ist </title>
+                <description>Es geht in diesem Fall wohl um weit mehr als technologische Geheimnisse und Wirtschaftsspionage: Die Affäre von Nvidia-Boss Jensen Huang mit einer mutmaßlichen Agentin lässt den Aktienkurs des Unternehmens einbrechen und erschüttert auch das politische Washington. </description>
+                <link>https://www.n-tv.de/wirtschaft/Was-ueber-die-Nvidia-Spionageaffaere-bekannt-ist-id31511589.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Was-ueber-die-Nvidia-Spionageaffaere-bekannt-ist-id31511589.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 13:34:47 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31511585/1794227833/Img_4_3/250/623992777.jpg" width="250" height="188" align="left" />Es geht in diesem Fall wohl um weit mehr als technologische Geheimnisse und Wirtschaftsspionage: Die Affäre von Nvidia-Boss Jensen Huang mit einer mutmaßlichen Agentin lässt den Aktienkurs des Unternehmens einbrechen und erschüttert auch das politische Washington. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31511585/1794227833/Img_4_3/250/623992777.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Hoffnung auf eine Nahost-Lösung: Benzinpreise sinken - E10 unter zwei Euro</title>
+                <description>Für Autofahrer, die Diesel oder Benzin tanken, sind es gute Nachrichten: Die Hoffnung auf eine Lösung des Iran-Kriegs steigt, was sich auch an der Tankstelle niederschlägt. </description>
+                <link>https://www.n-tv.de/wirtschaft/Benzinpreise-sinken-E10-unter-zwei-Euro-id31511288.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Benzinpreise-sinken-E10-unter-zwei-Euro-id31511288.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 13:31:15 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31511285/1794224248/Img_4_3/250/631150540.jpg" width="250" height="188" align="left" />Für Autofahrer, die Diesel oder Benzin tanken, sind es gute Nachrichten: Die Hoffnung auf eine Lösung des Iran-Kriegs steigt, was sich auch an der Tankstelle niederschlägt. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31511285/1794224248/Img_4_3/250/631150540.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Erst in diesem Jahr eröffnet: Telekom baut ihr KI-Rechenzentrum schon aus</title>
+                <description>Im Februar startet die Telekom ihre &quot;KI-Fabrik&quot; in München. Die Nachfrage nach Rechenleistung ist groß, Unternehmenskunden können damit viel Zeit sparen. Nach sieben Monaten ist das Werk bereits ausgebucht.</description>
+                <link>https://www.n-tv.de/wirtschaft/Telekom-baut-ihr-KI-Rechenzentrum-schon-aus-id31511261.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Telekom-baut-ihr-KI-Rechenzentrum-schon-aus-id31511261.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 12:03:42 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31511348/1794224868/Img_4_3/250/632002600.jpg" width="250" height="188" align="left" />Im Februar startet die Telekom ihre "KI-Fabrik" in München. Die Nachfrage nach Rechenleistung ist groß, Unternehmenskunden können damit viel Zeit sparen. Nach sieben Monaten ist das Werk bereits ausgebucht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31511348/1794224868/Img_4_3/250/632002600.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klingbeil stopft Löcher: Bundeseigene Immobilienanstalt soll offenbar für Haushalt bluten </title>
+                <description>Die SPD spricht derzeit viel über bezahlbaren Wohnraum. Doch einem Bericht zufolge verfolgt ausgerechnet Finanzminister Klingbeil Pläne, dass die Bundesanstalt für Immobilienaufgaben 2027 deutlich mehr Geld an den Bundeshaushalt abführt - und damit weniger bauen kann.</description>
+                <link>https://www.n-tv.de/wirtschaft/Bundeseigene-Immobilienanstalt-soll-offenbar-fuer-Haushalt-bluten-id31510877.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Bundeseigene-Immobilienanstalt-soll-offenbar-fuer-Haushalt-bluten-id31510877.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 11:07:20 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31510926/1794220691/Img_4_3/250/613920991.jpg" width="250" height="188" align="left" />Die SPD spricht derzeit viel über bezahlbaren Wohnraum. Doch einem Bericht zufolge verfolgt ausgerechnet Finanzminister Klingbeil Pläne, dass die Bundesanstalt für Immobilienaufgaben 2027 deutlich mehr Geld an den Bundeshaushalt abführt - und damit weniger bauen kann.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31510926/1794220691/Img_4_3/250/613920991.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Noch in diesem Jahr: Unicredit will schnell die Commerzbank kontrollieren</title>
+                <description>Unicredit drängelt: Die italienische Großbank möchte bei der Commerzbank durchregieren - und das so bald wie möglich. Auch bei deren Fusion mit der Hypovereinsbank könnte es nun schnell gehen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Unicredit-will-schnell-die-Commerzbank-kontrollieren-id31510481.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Unicredit-will-schnell-die-Commerzbank-kontrollieren-id31510481.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 09:47:38 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31510478/1794307051/Img_4_3/250/627001999.jpg" width="250" height="188" align="left" />Unicredit drängelt: Die italienische Großbank möchte bei der Commerzbank durchregieren - und das so bald wie möglich. Auch bei deren Fusion mit der Hypovereinsbank könnte es nun schnell gehen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31510478/1794307051/Img_4_3/250/627001999.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>China-Geschäft bricht jedoch ein: Deutsche Exporte legen überraschend stark zu</title>
+                <description>Nach der Delle im Sommer verkaufen deutsche Unternehmen im September wieder mehr ins Ausland, vor allem ins europäische. In China läuft es allerdings deutlich schlechter.</description>
+                <link>https://www.n-tv.de/wirtschaft/Deutsche-Exporte-legen-ueberraschend-stark-zu-id31510457.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Deutsche-Exporte-legen-ueberraschend-stark-zu-id31510457.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 09:47:01 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31510541/1794214900/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach der Delle im Sommer verkaufen deutsche Unternehmen im September wieder mehr ins Ausland, vor allem ins europäische. In China läuft es allerdings deutlich schlechter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31510541/1794214900/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Was wusste der US-Präsident?: Affäre des Nvidia-Chefs bringt Trump in die Bredouille </title>
+                <description>Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Seine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte, beschäftigt nicht nur das Silicon Valley. US-Präsident Trump soll schon früh über die mögliche Agententätigkeit informiert worden sein.  </description>
+                <link>https://www.n-tv.de/wirtschaft/Affaere-des-Nvidia-Chefs-bringt-Trump-in-die-Bredouille-id31509975.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Affaere-des-Nvidia-Chefs-bringt-Trump-in-die-Bredouille-id31509975.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Mon, 09 Nov 2026 06:05:37 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31510005/1794203903/Img_4_3/250/626516629.jpg" width="250" height="188" align="left" />Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Seine Affäre mit einer Frau, die eine chinesische Spionin gewesen sein könnte, beschäftigt nicht nur das Silicon Valley. US-Präsident Trump soll schon früh über die mögliche Agententätigkeit informiert worden sein.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31510005/1794203903/Img_4_3/250/626516629.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Affäre mit möglicher Spionin: Nvidia leitet Untersuchungen gegen Chef Huang ein</title>
+                <description>In einer E-Mail an seine Belegschaft bestätigt Nvidia-Chef Huang eine Affäre. Berichten zufolge wurde die Frau vom chinesischen Geheimdienst angeworben. Der Chipkonzern leitet daraufhin eine interne Untersuchung ein.</description>
+                <link>https://www.n-tv.de/wirtschaft/Nvidia-leitet-Untersuchungen-gegen-Chef-Huang-ein-id31509683.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Nvidia-leitet-Untersuchungen-gegen-Chef-Huang-ein-id31509683.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sun, 08 Nov 2026 22:02:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31509691/1794173726/Img_4_3/250/628022692.jpg" width="250" height="188" align="left" />In einer E-Mail an seine Belegschaft bestätigt Nvidia-Chef Huang eine Affäre. Berichten zufolge wurde die Frau vom chinesischen Geheimdienst angeworben. Der Chipkonzern leitet daraufhin eine interne Untersuchung ein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31509691/1794173726/Img_4_3/250/628022692.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
