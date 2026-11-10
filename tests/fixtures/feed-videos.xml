@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Videos</title>
+        	<link>https://www.n-tv.de/mediathek/videos/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Aktuelle Videos zu allen Nachrichten des Tages. Aktuell, schnell, seriös.</description>
+            <lastBuildDate>Tue, 10 Nov 2026 19:06:10 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Videos</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Politologin zu Trump und Putin: &quot;Sprache der USA könnte für Europa schlechtes Zeichen sein&quot;</title>
+                <description>Immer wieder bereitet die Nähe zwischen Trump und Putin Diplomaten weltweit Kopfzerbrechen. Auch die jüngste Ankündigung über einen großen Deal mit Russland stößt eher auf Skepsis. Politikwissenschaftlerin Gerlinde Groitl erklärt, warum die öffentliche Kommunikation der USA Europa sorgen sollte.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/Sprache-der-USA-koennte-fuer-Europa-schlechtes-Zeichen-sein-id31518511.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/Sprache-der-USA-koennte-fuer-Europa-schlechtes-Zeichen-sein-id31518511.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:59:45 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518855/1794337088/Img_4_3/250/Groitl_Politikwissenschaftlerin_USA.jpg" width="250" height="188" align="left" />Immer wieder bereitet die Nähe zwischen Trump und Putin Diplomaten weltweit Kopfzerbrechen. Auch die jüngste Ankündigung über einen großen Deal mit Russland stößt eher auf Skepsis. Politikwissenschaftlerin Gerlinde Groitl erklärt, warum die öffentliche Kommunikation der USA Europa sorgen sollte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518855/1794337088/Img_4_3/250/Groitl_Politikwissenschaftlerin_USA.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zwei Tatorte, drei Tote: Blutige Familientat erschüttert Hamburg und Reutlingen</title>
+                <description>Während in der Elbphilharmonie ein Schulkonzert läuft, fallen nebenan Schüsse. Zwei Menschen werden verletzt, Spezialkräfte stürmen ein Hotel. Die Spur führt zu zwei Leichen in Baden-Württemberg.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Schuesse-in-Hamburger-Hafencity-Tote-in-Hamburg-und-Baden-Wuerttemberg-id31518518.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Schuesse-in-Hamburger-Hafencity-Tote-in-Hamburg-und-Baden-Wuerttemberg-id31518518.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:34:31 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518576/1794335660/Img_4_3/250/KoelnNews_348691864_350.jpg" width="250" height="188" align="left" />Während in der Elbphilharmonie ein Schulkonzert läuft, fallen nebenan Schüsse. Zwei Menschen werden verletzt, Spezialkräfte stürmen ein Hotel. Die Spur führt zu zwei Leichen in Baden-Württemberg.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518576/1794335660/Img_4_3/250/KoelnNews_348691864_350.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Keine Familien oder Friseure: Der strenge DFB-Strafenkatalog von Jürgen Klopp</title>
+                <description>Unter Bundestrainer Jürgen Klopp gibt es für die Mannschaft einen kleinen Strafenkatalog, zum Beispiel in Bezug auf die Besuche im Camp. DFB-Felix Görner erklärt die einzelnen Strafen. </description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Der-strenge-DFB-Strafenkatalog-von-Juergen-Klopp-id31518798.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Der-strenge-DFB-Strafenkatalog-von-Juergen-Klopp-id31518798.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:33:01 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518804/1794335292/Img_4_3/250/KoelnNews_348626604_1469.jpg" width="250" height="188" align="left" />Unter Bundestrainer Jürgen Klopp gibt es für die Mannschaft einen kleinen Strafenkatalog, zum Beispiel in Bezug auf die Besuche im Camp. DFB-Felix Görner erklärt die einzelnen Strafen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518804/1794335292/Img_4_3/250/KoelnNews_348626604_1469.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Diskussion um Musiala: Sammer vermutet bei Hoeneß Kalkül</title>
+                <description>Matthias Sammer reagiert auf die Hoeneß-Aussagen zum Bayern-Dilemma um Jamal Musiala, der einen teuren Vertrag besitzt, aber kaum spielt. &quot;Uli ist der erste, der diesen Jungen schützen würde, aber der Verein ist auch sein Junge.&quot;</description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Sammer-zu-Hoeness-Aussagen-ueber-Musiala-id31518751.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Sammer-zu-Hoeness-Aussagen-ueber-Musiala-id31518751.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:24:19 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518768/1794334686/Img_4_3/250/KoelnNews_348663162_1356.jpg" width="250" height="188" align="left" />Matthias Sammer reagiert auf die Hoeneß-Aussagen zum Bayern-Dilemma um Jamal Musiala, der einen teuren Vertrag besitzt, aber kaum spielt. "Uli ist der erste, der diesen Jungen schützen würde, aber der Verein ist auch sein Junge."]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518768/1794334686/Img_4_3/250/KoelnNews_348663162_1356.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Statik statt Fusselrolle: Expertin verrät Strumpfhosen-Trick gegen Tierhaare</title>
+                <description>Hundehaare nerven in jeder Ecke der Wohnung und bleiben einfach überall kleben. Eine Hauswirtschaftsexpertin schwört auf ein überraschend simples Mittel aus der Schublade. Ein zweiter Hack für die Waschmaschine macht Decken wieder sauber.</description>
+                <link>https://www.n-tv.de/mediathek/videos/ratgeber/Viele-wollen-auf-ein-Leben-mit-Hunden-oder-Katzen-nicht-verzichten-auf-Tierhaare-zu-Hause-aber-schon-So-wird-man-sie-los-id31515995.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/ratgeber/Viele-wollen-auf-ein-Leben-mit-Hunden-oder-Katzen-nicht-verzichten-auf-Tierhaare-zu-Hause-aber-schon-So-wird-man-sie-los-id31515995.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:17:20 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516020/1794309378/Img_4_3/250/WVSER26Tierhaare.jpg" width="250" height="188" align="left" />Hundehaare nerven in jeder Ecke der Wohnung und bleiben einfach überall kleben. Eine Hauswirtschaftsexpertin schwört auf ein überraschend simples Mittel aus der Schublade. Ein zweiter Hack für die Waschmaschine macht Decken wieder sauber.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516020/1794309378/Img_4_3/250/WVSER26Tierhaare.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wird er sich nicht nehmen lassen”: Experte prophezeit St. Brown einen Touchdown in München</title>
+                <description>NFL-Kommentator Jan Stecker ist sich sicher: Amon-Ra St. Brown (Detroit Lions) wird beim International Game in München den ersten Touchdown eines Deutschen auf deutschem Boden machen. </description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Experte-prophezeit-St-Brown-einen-Touchdown-in-Muenchen-id31518693.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Experte-prophezeit-St-Brown-einen-Touchdown-in-Muenchen-id31518693.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:10:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518723/1794334095/Img_4_3/250/KoelnNews_348694872_363.jpg" width="250" height="188" align="left" />NFL-Kommentator Jan Stecker ist sich sicher: Amon-Ra St. Brown (Detroit Lions) wird beim International Game in München den ersten Touchdown eines Deutschen auf deutschem Boden machen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518723/1794334095/Img_4_3/250/KoelnNews_348694872_363.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unglück in Pakistan: Einsturz bei Bauarbeiten am weltgrößten Erddamm</title>
+                <description>Bei der Erweiterung des Tarbela-Staudamms ist es bei Tunnelarbeiten zu einem Unglück gekommen, wodurch Wassermassen die Baustelle fluteten. Eine Person war von der Strömung mitgerissen worden, konnte jedoch gerettet werden.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Einsturz-bei-Bauarbeiten-am-weltgroessten-Erddamm-id31516260.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Einsturz-bei-Bauarbeiten-am-weltgroessten-Erddamm-id31516260.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:05:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516341/1794312087/Img_4_3/250/Pakistan.jpg" width="250" height="188" align="left" />Bei der Erweiterung des Tarbela-Staudamms ist es bei Tunnelarbeiten zu einem Unglück gekommen, wodurch Wassermassen die Baustelle fluteten. Eine Person war von der Strömung mitgerissen worden, konnte jedoch gerettet werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516341/1794312087/Img_4_3/250/Pakistan.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Anwohner gelingt seltene Aufnahme: Besonderer Vogel sorgt für große Augen auf dem Balkon</title>
+                <description>Mit riesigen gelben Augen und perfekter Tarnung zieht ein nachtaktiver Vogel in Brasilien Blicke auf sich. Normalerweise ist das nachtaktive Tier gut getarnt im Wald kaum zu sehen - doch mitten in einem Wohngebiet wird der &quot;Geistervogel&quot; plötzlich zum Hingucker.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Besonderer-Vogel-sorgt-fuer-grosse-Augen-auf-dem-Balkon-id31518534.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Besonderer-Vogel-sorgt-fuer-grosse-Augen-auf-dem-Balkon-id31518534.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 18:01:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518690/1794333227/Img_4_3/250/Augen_Vogel.jpg" width="250" height="188" align="left" />Mit riesigen gelben Augen und perfekter Tarnung zieht ein nachtaktiver Vogel in Brasilien Blicke auf sich. Normalerweise ist das nachtaktive Tier gut getarnt im Wald kaum zu sehen - doch mitten in einem Wohngebiet wird der "Geistervogel" plötzlich zum Hingucker.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518690/1794333227/Img_4_3/250/Augen_Vogel.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Checkliste gegen Klinik-Keime: &quot;Im schlimmsten Fall gibt es keine Therapieoption&quot;</title>
+                <description>Ein multiresistenter Erreger hat die Intensivstation eines Krankenhauses in Lünen außer Betrieb gesetzt. Rettungswagen weichen aus, für Immungeschwächte droht Lebensgefahr. Kliniken setzen auf Hygiene, Checklisten und sogar Desinfektionsroboter.</description>
+                <link>https://www.n-tv.de/mediathek/videos/wissen/Multiresistente-Keime-Warum-die-Erreger-so-gefaehrlich-sind-id31517701.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/wissen/Multiresistente-Keime-Warum-die-Erreger-so-gefaehrlich-sind-id31517701.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:54:28 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517756/1794323995/Img_4_3/250/KoelnNews_348683116_0.jpg" width="250" height="188" align="left" />Ein multiresistenter Erreger hat die Intensivstation eines Krankenhauses in Lünen außer Betrieb gesetzt. Rettungswagen weichen aus, für Immungeschwächte droht Lebensgefahr. Kliniken setzen auf Hygiene, Checklisten und sogar Desinfektionsroboter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517756/1794323995/Img_4_3/250/KoelnNews_348683116_0.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ärger um Nmecha: &quot;Ballers in God&quot;: Was hinter dem Kronen-Jubel steckt</title>
+                <description>Eine Krone für Jesus: Hinter dem Torjubel von Fußballprofis steckt eine religiöse Kampagne. Das Netzwerk &quot;Ballers in God&quot; zeigt, wie der Fußball zur Bühne für Missionierung werden könnte.</description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Ballers-in-God-Was-hinter-dem-Kronen-Jubel-steckt-id31517370.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Ballers-in-God-Was-hinter-dem-Kronen-Jubel-steckt-id31517370.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:45:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31514622/1794294676/Img_4_3/250/632146450.jpg" width="250" height="188" align="left" />Eine Krone für Jesus: Hinter dem Torjubel von Fußballprofis steckt eine religiöse Kampagne. Das Netzwerk "Ballers in God" zeigt, wie der Fußball zur Bühne für Missionierung werden könnte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31514622/1794294676/Img_4_3/250/632146450.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Voll des Lobes für Bundestrainer: Füllkrug glaubt auch an Klopps Einfluss bei Florian Wirtz</title>
+                <description>Niclas Füllkrug ist von dem großen Rundumblick des Bundestrainers positiv überrascht. Und sein besonderer Blick auf England helfe auch Spielern wie Florian Wirtz., sagt der Nationalmannschaftsrückkehrer. </description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Fuellkrug-glaubt-auch-an-Klopps-Einfluss-bei-Florian-Wirtz-id31518045.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Fuellkrug-glaubt-auch-an-Klopps-Einfluss-bei-Florian-Wirtz-id31518045.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:40:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518134/1794327942/Img_4_3/250/epi_1103431002_IMAGO SPORT_imago sp 1110 15430001 1085806850.jpg_GER, DFB Nationalman.jpg" width="250" height="188" align="left" />Niclas Füllkrug ist von dem großen Rundumblick des Bundestrainers positiv überrascht. Und sein besonderer Blick auf England helfe auch Spielern wie Florian Wirtz., sagt der Nationalmannschaftsrückkehrer. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518134/1794327942/Img_4_3/250/epi_1103431002_IMAGO SPORT_imago sp 1110 15430001 1085806850.jpg_GER, DFB Nationalman.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Jantz zur Kritik des Verbands: Appell an Reiche beim Maschinenbau-Gipfel: &quot;Liefern Sie&quot;</title>
+                <description>Beim Gipfeltreffen des Verbands Deutscher Maschinenbau herrscht Frustration. Man sei fassungslos, heißt es in der Eröffnungsrede des Verbands-Präsidenten. In einem Appell an Wirtschaftsministerin Katherina Reiche fordern die Maschinenbauer schnelle Reformen. ntv-Reporterin Nadine Jantz ist vor Ort.</description>
+                <link>https://www.n-tv.de/mediathek/videos/wirtschaft/Appell-an-Reiche-beim-Maschinenbau-Gipfel-Liefern-Sie-id31515452.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/wirtschaft/Appell-an-Reiche-beim-Maschinenbau-Gipfel-Liefern-Sie-id31515452.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:29:50 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515733/1794306881/Img_4_3/250/Jantz.jpg" width="250" height="188" align="left" />Beim Gipfeltreffen des Verbands Deutscher Maschinenbau herrscht Frustration. Man sei fassungslos, heißt es in der Eröffnungsrede des Verbands-Präsidenten. In einem Appell an Wirtschaftsministerin Katherina Reiche fordern die Maschinenbauer schnelle Reformen. ntv-Reporterin Nadine Jantz ist vor Ort.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515733/1794306881/Img_4_3/250/Jantz.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vater der Herzogin festgenommen: Reporter bedrängen Meghan - doch sie schweigt</title>
+                <description>Bei einem Termin in Brüssel schweigt Meghan zu den schweren Vorwürfen gegen ihren Vater Thomas Markle. Der 82-Jährige wurde festgenommen und steht unter Hausarrest. Während Harry über Kinderschutz im Netz spricht, hält sich Meghan bei der Veranstaltung auffällig zurück.</description>
+                <link>https://www.n-tv.de/mediathek/videos/unterhaltung/Auftritt-nach-Festnahme-ihres-Vaters-Thomas-Markle-Gesten-lassen-Herzogin-Meghans-Unsicherheit-vermuten-id31517489.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/unterhaltung/Auftritt-nach-Festnahme-ihres-Vaters-Thomas-Markle-Gesten-lassen-Herzogin-Meghans-Unsicherheit-vermuten-id31517489.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:18:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517803/1794324384/Img_4_3/250/FotoJet (16).jpg" width="250" height="188" align="left" />Bei einem Termin in Brüssel schweigt Meghan zu den schweren Vorwürfen gegen ihren Vater Thomas Markle. Der 82-Jährige wurde festgenommen und steht unter Hausarrest. Während Harry über Kinderschutz im Netz spricht, hält sich Meghan bei der Veranstaltung auffällig zurück.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517803/1794324384/Img_4_3/250/FotoJet (16).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Geldanlage-Check: War das schon ein Crash? Was Anleger jetzt wissen sollten</title>
+                <description>Nach turbulenten Wochen an den Märkten erklärt Eric Haubold, Chef-Anlagestratege Deutschland bei UniCredit, warum die jüngsten Ausschläge nach den US-Wahlen noch keinen Crash bedeuten und weshalb Anleger jetzt nicht in Panik verfallen sollten.</description>
+                <link>https://www.n-tv.de/mediathek/videos/wirtschaft/Finanzexperte-klaert-auf-Weshalb-Anleger-jetzt-nicht-in-Panik-verfallen-sollten-id31517950.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/wirtschaft/Finanzexperte-klaert-auf-Weshalb-Anleger-jetzt-nicht-in-Panik-verfallen-sollten-id31517950.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 17:13:43 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518527/1794330881/Img_4_3/250/Börsentalk.jpg" width="250" height="188" align="left" />Nach turbulenten Wochen an den Märkten erklärt Eric Haubold, Chef-Anlagestratege Deutschland bei UniCredit, warum die jüngsten Ausschläge nach den US-Wahlen noch keinen Crash bedeuten und weshalb Anleger jetzt nicht in Panik verfallen sollten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518527/1794330881/Img_4_3/250/Börsentalk.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dutzende Nester unter Fundament: Traumhaus entpuppt sich als Schlangen-Horror</title>
+                <description>Das eigene Haus kaufen - für viele ein absoluter Lebenstraum. Doch Jessica und Jonathan Perry aus dem US-Bundesstaat Kentucky machen schon drei Wochen nach dem Kauf eine tierische Entdeckung, mit der ein Horror beginnt. Und das ist erst der Anfang einer wahren Invasion.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Traumhaus-entpuppt-sich-als-Schlangen-Horror-id31517221.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Traumhaus-entpuppt-sich-als-Schlangen-Horror-id31517221.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 16:52:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518733/1794334004/Img_4_3/250/Schlangenhaus.jpg" width="250" height="188" align="left" />Das eigene Haus kaufen - für viele ein absoluter Lebenstraum. Doch Jessica und Jonathan Perry aus dem US-Bundesstaat Kentucky machen schon drei Wochen nach dem Kauf eine tierische Entdeckung, mit der ein Horror beginnt. Und das ist erst der Anfang einer wahren Invasion.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518733/1794334004/Img_4_3/250/Schlangenhaus.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Chance für Maschinenbau: Experte warnt deutsche Industrie vor KI-Zögerlichkeit</title>
+                <description>Auf dem Maschinenbaugipfel dominiert ein Thema die Debatten: Industrielle KI. China-Experte Gerd Hoppe sieht darin eine der größten Innovationen für die Fabrikautomation. Doch deutsche Entscheider könnten den Anschluss verpassen.</description>
+                <link>https://www.n-tv.de/mediathek/videos/wirtschaft/Experte-warnt-deutsche-Industrie-vor-KI-Zoegerlichkeit-id31517496.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/wirtschaft/Experte-warnt-deutsche-Industrie-vor-KI-Zoegerlichkeit-id31517496.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 16:51:22 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517512/1794322035/Img_4_3/250/epi_1103278954_DPA BF_kzzq7evk7k-v1-ax-ms6144.jpeg_Maschinenbauer.jpg" width="250" height="188" align="left" />Auf dem Maschinenbaugipfel dominiert ein Thema die Debatten: Industrielle KI. China-Experte Gerd Hoppe sieht darin eine der größten Innovationen für die Fabrikautomation. Doch deutsche Entscheider könnten den Anschluss verpassen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517512/1794322035/Img_4_3/250/epi_1103278954_DPA BF_kzzq7evk7k-v1-ax-ms6144.jpeg_Maschinenbauer.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Jäger: Rede an Vorwürfen vorbei: &quot;Hegseth sagt eigentlich nur: &apos;Trump, komm an meine Seite&apos;&quot;</title>
+                <description>Nach der Niederlage bei den Zwischenwahlen sprechen sich selbst Republikaner für ein Amtsenthebungsverfahren gegen Pete Hegseth aus. Vor der Presse wirbt der Verteidigungsminister dennoch für den vermeintlichen Erfolg des Iran-Kriegs - und geht damit an den Vorwürfen gegen ihn vorbei.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/Hegseth-sagt-eigentlich-nur-Trump-komm-an-meine-Seite-id31517329.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/Hegseth-sagt-eigentlich-nur-Trump-komm-an-meine-Seite-id31517329.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 16:26:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517581/1794322614/Img_4_3/250/Thomas Jäger.jpg" width="250" height="188" align="left" />Nach der Niederlage bei den Zwischenwahlen sprechen sich selbst Republikaner für ein Amtsenthebungsverfahren gegen Pete Hegseth aus. Vor der Presse wirbt der Verteidigungsminister dennoch für den vermeintlichen Erfolg des Iran-Kriegs - und geht damit an den Vorwürfen gegen ihn vorbei.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517581/1794322614/Img_4_3/250/Thomas Jäger.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verhandlungen in Abu Dhabi: Möglicher Ukraine-Deal: Diese drei Szenarien kursieren</title>
+                <description>In Abu Dhabi ringen Verhandler um ein Abkommen für ein Ende des Ukraine-Krieges. Schon seit Monaten kursieren verschiedene Szenarien für einen möglichen Deal. Welche Variante für Kiew gravierende Risiken bergen würden, erklärt ntv-Reporter Maurice Prior.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/Verhandlungen-in-Abu-Dhabi-Drei-Szenarien-fuer-einen-moeglichen-Ukraine-Deal-id31517159.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/Verhandlungen-in-Abu-Dhabi-Drei-Szenarien-fuer-einen-moeglichen-Ukraine-Deal-id31517159.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 16:25:09 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517319/1794320557/Img_4_3/250/KoelnNews_348674955_570.jpg" width="250" height="188" align="left" />In Abu Dhabi ringen Verhandler um ein Abkommen für ein Ende des Ukraine-Krieges. Schon seit Monaten kursieren verschiedene Szenarien für einen möglichen Deal. Welche Variante für Kiew gravierende Risiken bergen würden, erklärt ntv-Reporter Maurice Prior.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517319/1794320557/Img_4_3/250/KoelnNews_348674955_570.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vier Jugendliche bei Unfall getötet: Polizei: &quot;Situation nicht einfach für die Einsatzkräfte&quot;</title>
+                <description>Bei einem schweren Verkehrsunfall bei Bad Sassendorf in Nordrhein-Westfalen sind in der Nacht zu Dienstag vier Jugendliche getötet worden. Die Polizei vermutet überhöhte Geschwindigkeit als Ursache. An der Unfallstelle bietet sich den Einsatzkräften ein Bild der Verwüstung. </description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Polizei-Situation-nicht-einfach-fuer-die-Einsatzkraefte-id31516559.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Polizei-Situation-nicht-einfach-fuer-die-Einsatzkraefte-id31516559.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:49:05 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516595/1794314200/Img_4_3/250/KoelnNews_348670165_1200.jpg" width="250" height="188" align="left" />Bei einem schweren Verkehrsunfall bei Bad Sassendorf in Nordrhein-Westfalen sind in der Nacht zu Dienstag vier Jugendliche getötet worden. Die Polizei vermutet überhöhte Geschwindigkeit als Ursache. An der Unfallstelle bietet sich den Einsatzkräften ein Bild der Verwüstung. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516595/1794314200/Img_4_3/250/KoelnNews_348670165_1200.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Rechtsstreit mit Amber Heard: Zweite Chance in Hollywood: Johnny Depp auf Filmpremiere</title>
+                <description>Johnny Depp steht in London wieder im Rampenlicht: Als Ebenezer Scrooge bringt er Dickens’ Weihnachtsgeschichte ins Kino. An seiner Seite spielt Rupert Grint. Nach dem öffentlichen Streit mit Amber Heard und Rollen abseits des Mainstreams rückt der Schauspieler wieder in den Fokus der Filmindustrie.</description>
+                <link>https://www.n-tv.de/mediathek/videos/unterhaltung/Nach-Rechtsstreit-mit-Amber-Heard-Johnny-Depp-auf-Filmpremiere-id31517194.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/unterhaltung/Nach-Rechtsstreit-mit-Amber-Heard-Johnny-Depp-auf-Filmpremiere-id31517194.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:41:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517588/1794322698/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Johnny Depp steht in London wieder im Rampenlicht: Als Ebenezer Scrooge bringt er Dickens’ Weihnachtsgeschichte ins Kino. An seiner Seite spielt Rupert Grint. Nach dem öffentlichen Streit mit Amber Heard und Rollen abseits des Mainstreams rückt der Schauspieler wieder in den Fokus der Filmindustrie.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517588/1794322698/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unfassbare Datenfülle im Fall Fabian: Diese kaltherzigen Sprachnachrichten überführten Gina H.</title>
+                <description>Für den Prozess gegen Gina H. werten Ermittler elf Millionen Datensätze aus. Eine Sprachnachricht an eine Friseurin zeigt frühes Täterwissen über Fabians Tod. Auch ihre Suchanfragen am Tattag lassen die Fahnder aufhorchen.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Urteil-im-Mordfall-Fabian-Gina-H-verriet-sich-mit-kaltherzigen-Sprachnachrichten-id31517627.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Urteil-im-Mordfall-Fabian-Gina-H-verriet-sich-mit-kaltherzigen-Sprachnachrichten-id31517627.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:36:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517664/1794323245/Img_4_3/250/KoelnNews_348681518_2960.jpg" width="250" height="188" align="left" />Für den Prozess gegen Gina H. werten Ermittler elf Millionen Datensätze aus. Eine Sprachnachricht an eine Friseurin zeigt frühes Täterwissen über Fabians Tod. Auch ihre Suchanfragen am Tattag lassen die Fahnder aufhorchen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517664/1794323245/Img_4_3/250/KoelnNews_348681518_2960.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;So schlimm kann es nicht sein&quot;: Für Füllkrug ist sein Alter kein Thema</title>
+                <description>Nationalspieler Niclas Füllkrug ist nach anderthalb Jahren wieder zurück DFB-Team. Der Bremer Stürmer fühlt sich nicht wie 33 und erschreckt sich immer, wenn sein Alter erwähnt wird.</description>
+                <link>https://www.n-tv.de/sport/mediathek/videos/sport/Fuer-Fuellkrug-ist-sein-Alter-kein-Thema-id31517659.html</link>
+                <guid>https://www.n-tv.de/sport/mediathek/videos/sport/Fuer-Fuellkrug-ist-sein-Alter-kein-Thema-id31517659.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:34:30 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517742/1794324835/Img_4_3/250/epi_1103405647_IMAGO SPORT_imago sp 1110 14350001 1085806135.jpg_10.11.2026, GER, Fus.jpg" width="250" height="188" align="left" />Nationalspieler Niclas Füllkrug ist nach anderthalb Jahren wieder zurück DFB-Team. Der Bremer Stürmer fühlt sich nicht wie 33 und erschreckt sich immer, wenn sein Alter erwähnt wird.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517742/1794324835/Img_4_3/250/epi_1103405647_IMAGO SPORT_imago sp 1110 14350001 1085806135.jpg_10.11.2026, GER, Fus.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trubetskoy zu Treffen in Abu Dhabi: &quot;Russland setzt jenseits der Front auf die Brechstange&quot;</title>
+                <description>In Abu Dhabi verhandeln Kiew und Moskau unter US-Vermittlung einen möglichen Frieden, doch die &quot;Aussichten auf einen Waffenstillstand sind schlechter geworden&quot;, meint Denis Trubetskoy. Warum die Ukraine den &quot;absurden Forderungen&quot; Russlands nicht zustimmen wird, erklärt der Politikjournalist im ntv-Gespräch.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/Russland-setzt-jenseits-der-Front-auf-die-Brechstange-id31516075.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/Russland-setzt-jenseits-der-Front-auf-die-Brechstange-id31516075.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:21:42 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516353/1794312210/Img_4_3/250/Trubetskoy.jpg" width="250" height="188" align="left" />In Abu Dhabi verhandeln Kiew und Moskau unter US-Vermittlung einen möglichen Frieden, doch die "Aussichten auf einen Waffenstillstand sind schlechter geworden", meint Denis Trubetskoy. Warum die Ukraine den "absurden Forderungen" Russlands nicht zustimmen wird, erklärt der Politikjournalist im ntv-Gespräch.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516353/1794312210/Img_4_3/250/Trubetskoy.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Asche Verstorbener im Wohnzimmer: Immer mehr Bundesländer erlauben Urne für daheim</title>
+                <description>Die Bestattungskultur in Deutschland wandelt sich spürbar. Bremen oder Rheinland-Pfalz gestatten mittlerweile die Aufbewahrung der Asche auf dem eigenen Grundstück. Ein Fachmann erklärt, welche Voraussetzungen Verstorbene zu Lebzeiten erfüllen müssen.</description>
+                <link>https://www.n-tv.de/mediathek/videos/ratgeber/Bestattung-im-eigenen-Garten-im-nahen-Fluss-oder-ganz-traditionell-die-Bestattungskultur-in-Deutschland-wird-liberaler-id31515471.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/ratgeber/Bestattung-im-eigenen-Garten-im-nahen-Fluss-oder-ganz-traditionell-die-Bestattungskultur-in-Deutschland-wird-liberaler-id31515471.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:20:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515657/1794306337/Img_4_3/250/Screenshot 2026-11-10 102409.jpg" width="250" height="188" align="left" />Die Bestattungskultur in Deutschland wandelt sich spürbar. Bremen oder Rheinland-Pfalz gestatten mittlerweile die Aufbewahrung der Asche auf dem eigenen Grundstück. Ein Fachmann erklärt, welche Voraussetzungen Verstorbene zu Lebzeiten erfüllen müssen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515657/1794306337/Img_4_3/250/Screenshot 2026-11-10 102409.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nvidia-Chef wird zur Lachnummer: Nach Affäre: Diese Huang-Memes gehen viral</title>
+                <description>Die Affäre von einem der mächtigsten Tech-Bosse weltweit, Jensen Huang, und einer möglichen Spionin - ein Skandal, der für jede Menge Spott sorgt. Das Netz explodiert regelrecht vor Memes und Gags.</description>
+                <link>https://www.n-tv.de/mediathek/videos/wirtschaft/Nach-Affaere-Diese-Huang-Memes-gehen-viral-id31516782.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/wirtschaft/Nach-Affaere-Diese-Huang-Memes-gehen-viral-id31516782.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:10:39 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517135/1794324583/Img_4_3/250/Huang1.jpg" width="250" height="188" align="left" />Die Affäre von einem der mächtigsten Tech-Bosse weltweit, Jensen Huang, und einer möglichen Spionin - ein Skandal, der für jede Menge Spott sorgt. Das Netz explodiert regelrecht vor Memes und Gags.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517135/1794324583/Img_4_3/250/Huang1.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mütze statt Mähne: Michelle überrascht Fans mit radikalem Frisur-Wechsel</title>
+                <description>Shampoo auf die Hand, fertig: Michelle feiert ihren neuen Pflegealltag nach dem radikalen Haarschnitt. Die Sängerin postet den Buzzcut auf Instagram und zeigt sich befreit. Ohne ein bestimmtes Accessoire geht sie derzeit nicht vor die Tür.</description>
+                <link>https://www.n-tv.de/mediathek/videos/unterhaltung/Frisur-von-Michelle-Ex-Schlagersaengerin-traegt-Haare-raspelkurz-id31517292.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/unterhaltung/Frisur-von-Michelle-Ex-Schlagersaengerin-traegt-Haare-raspelkurz-id31517292.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 15:03:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517452/1794321537/Img_4_3/250/Michelle.jpg" width="250" height="188" align="left" />Shampoo auf die Hand, fertig: Michelle feiert ihren neuen Pflegealltag nach dem radikalen Haarschnitt. Die Sängerin postet den Buzzcut auf Instagram und zeigt sich befreit. Ohne ein bestimmtes Accessoire geht sie derzeit nicht vor die Tür.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517452/1794321537/Img_4_3/250/Michelle.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Geschichte wird Iran-Krieg neu bewerten&quot;: Hegseth reagiert angriffslustig auf Amtsenthebungsantrag</title>
+                <description>Trump-Vize JD Vance macht den Iran-Krieg für die krachende Wahlniederlage der Republikaner bei den Midterms verantwortlich. Schnell geht das Gerücht um, dass Verteidigungsminister Pete Hegseth seinen Posten möglicherweise räumen soll. Doch dieser lobt seine Mission &quot;Epic Fury&quot; in den Himmel.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/Hegseth-reagiert-angriffslustig-auf-Amtsenthebungsantrag-id31517381.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/Hegseth-reagiert-angriffslustig-auf-Amtsenthebungsantrag-id31517381.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 14:57:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517488/1794321824/Img_4_3/250/Pete Hegseth.jpg" width="250" height="188" align="left" />Trump-Vize JD Vance macht den Iran-Krieg für die krachende Wahlniederlage der Republikaner bei den Midterms verantwortlich. Schnell geht das Gerücht um, dass Verteidigungsminister Pete Hegseth seinen Posten möglicherweise räumen soll. Doch dieser lobt seine Mission "Epic Fury" in den Himmel.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517488/1794321824/Img_4_3/250/Pete Hegseth.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mutmaßlicher Schütze tot: Schüsse in Hamburg: Polizei und SEK räumen Elbphilharmonie</title>
+                <description>Am Morgen fallen in der Hamburger Hafencity mehrere Schüsse. Zwei Menschen werden verletzt. Polizei und SEK rücken mit einem Großaufgebot an. Die Einsatzkräfte vermuten den Tatverdächtigen in der Elbphilharmonie. Dort finden sie ihn schließlich - bereits tot.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Schuesse-in-Hamburger-HafenCity-Polizei-findet-Tatverdaechtigen-tot-in-Elbphilharmonie-id31517064.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Schuesse-in-Hamburger-HafenCity-Polizei-findet-Tatverdaechtigen-tot-in-Elbphilharmonie-id31517064.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 14:42:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517161/1794319079/Img_4_3/250/Hamburg Elbphilharmonie.jpg" width="250" height="188" align="left" />Am Morgen fallen in der Hamburger Hafencity mehrere Schüsse. Zwei Menschen werden verletzt. Polizei und SEK rücken mit einem Großaufgebot an. Die Einsatzkräfte vermuten den Tatverdächtigen in der Elbphilharmonie. Dort finden sie ihn schließlich - bereits tot.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517161/1794319079/Img_4_3/250/Hamburg Elbphilharmonie.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>RTL/ntv-Trendbarometer: AfD baut Vorsprung aus, Grüne müssen Federn lassen</title>
+                <description>Während Friedrich Merz zuletzt Gespräche mit mehreren anderen europäischen Staatschefs sucht, wächst im Inland der Zuspruch der AfD. Die Grünen und die SPD verlieren derweil an Beliebtheit.</description>
+                <link>https://www.n-tv.de/mediathek/videos/politik/AfD-baut-Vorsprung-aus-Gruene-muessen-Federn-lassen-id31516899.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/politik/AfD-baut-Vorsprung-aus-Gruene-muessen-Federn-lassen-id31516899.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 14:02:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516946/1794316919/Img_4_3/250/Screenshot 2026-11-10 132050.jpg" width="250" height="188" align="left" />Während Friedrich Merz zuletzt Gespräche mit mehreren anderen europäischen Staatschefs sucht, wächst im Inland der Zuspruch der AfD. Die Grünen und die SPD verlieren derweil an Beliebtheit.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516946/1794316919/Img_4_3/250/Screenshot 2026-11-10 132050.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Mutter in Tränen ausgebrochen&quot;: Kulawik: Urteil im Fall Fabian &quot;war Gänsehaut-Moment&quot;</title>
+                <description>Im Fall des getöteten achtjährigen Fabian fällt das Landgericht Rostock ein Urteil: Die Angeklagte Gina H. bekommt eine lebenslange Freiheitsstrafe. ntv-Reporter Carsten Kulawik beschreibt die Emotionen beim Schuldspruch. Es seien Tränen geflossen - die Angeklagte hingegen sei &quot;völlig regungslos&quot; gewesen.</description>
+                <link>https://www.n-tv.de/mediathek/videos/panorama/Kulawik-Urteil-im-Fall-Fabian-war-Gaensehaut-Moment-id31517016.html</link>
+                <guid>https://www.n-tv.de/mediathek/videos/panorama/Kulawik-Urteil-im-Fall-Fabian-war-Gaensehaut-Moment-id31517016.html</guid>
+                <category>Mediathek</category>
+                <pubDate>Tue, 10 Nov 2026 14:01:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517076/1794318166/Img_4_3/250/Carsten Kulawik.jpg" width="250" height="188" align="left" />Im Fall des getöteten achtjährigen Fabian fällt das Landgericht Rostock ein Urteil: Die Angeklagte Gina H. bekommt eine lebenslange Freiheitsstrafe. ntv-Reporter Carsten Kulawik beschreibt die Emotionen beim Schuldspruch. Es seien Tränen geflossen - die Angeklagte hingegen sei "völlig regungslos" gewesen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517076/1794318166/Img_4_3/250/Carsten Kulawik.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
