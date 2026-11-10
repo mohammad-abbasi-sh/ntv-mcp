@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Tue, 10 Nov 2026 19:05:19 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Gruppe deckt Kreml-Verluste auf: &quot;Unsere Hacker liefern Ergebnisse, von denen Geheimdienste nur träumen&quot;</title>
+                <description>Sie hacken das russische Statistikamt und veröffentlichen Putins Kriegsverluste. Doch das ist längst nicht die spektakulärste Aktion der &quot;Cyber-Partisans&quot;. Yuliana Shemetovets, das einzige nicht anonyme Mitglied der Gruppe, spricht über ihren Job und darüber, wie die Hacker den Ukraine-Krieg möglicherweise entscheidend beeinflusst haben.</description>
+                <link>https://www.n-tv.de/politik/Cyber-Partisans-deckten-russische-Kriegsverluste-auf-Unsere-Hacker-liefern-Ergebnisse-von-denen-Geheimdienste-nur-traeumen-id31518113.html</link>
+                <guid>https://www.n-tv.de/politik/Cyber-Partisans-deckten-russische-Kriegsverluste-auf-Unsere-Hacker-liefern-Ergebnisse-von-denen-Geheimdienste-nur-traeumen-id31518113.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:35:35 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518133/1794329961/Img_4_3/250/photo_2026-11-10_15-27-44.jpg" width="250" height="188" align="left" />Sie hacken das russische Statistikamt und veröffentlichen Putins Kriegsverluste. Doch das ist längst nicht die spektakulärste Aktion der "Cyber-Partisans". Yuliana Shemetovets, das einzige nicht anonyme Mitglied der Gruppe, spricht über ihren Job und darüber, wie die Hacker den Ukraine-Krieg möglicherweise entscheidend beeinflusst haben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518133/1794329961/Img_4_3/250/photo_2026-11-10_15-27-44.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klicks und Rage Bait: Polens Rechte nutzt Bundeswehr-Besuch für antideutsche Hetzkampagne</title>
+                <description>Ein PiS-Abgeordneter filmt drei Bundeswehr-Soldaten in Warschau. Rechte wittern eine deutsche Verstärkung für Ministerpräsident Tusk, Fakten spielen keine Rolle. Es ist nicht das erste Mal, dass in Polen mit Falschbehauptungen Stimmung gemacht wird.</description>
+                <link>https://www.n-tv.de/politik/Polens-Rechte-nutzt-Bundeswehr-Besuch-fuer-antideutsche-Hetzkampagne-id31517462.html</link>
+                <guid>https://www.n-tv.de/politik/Polens-Rechte-nutzt-Bundeswehr-Besuch-fuer-antideutsche-Hetzkampagne-id31517462.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 18:22:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517494/1794321881/Img_4_3/250/613810277.jpg" width="250" height="188" align="left" />Ein PiS-Abgeordneter filmt drei Bundeswehr-Soldaten in Warschau. Rechte wittern eine deutsche Verstärkung für Ministerpräsident Tusk, Fakten spielen keine Rolle. Es ist nicht das erste Mal, dass in Polen mit Falschbehauptungen Stimmung gemacht wird.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517494/1794321881/Img_4_3/250/613810277.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verhandlungen in Abu Dhabi: Niemand glaubt im Ernst an ein rasches Kriegsende</title>
+                <description>Russland und die Ukraine verhandeln unter Vermittlung der USA in Abu Dhabi. Dass dabei ein Waffenstillstand herauskommt, ist ausgeschlossen. Es wird in den kommenden Monaten, vermutlich sogar Jahren, noch viel mehr Tote geben.</description>
+                <link>https://www.n-tv.de/politik/politik_kommentare/Verhandlungen-zwischen-Russland-und-der-Ukraine-Niemand-glaubt-im-Ernst-an-ein-rasches-Kriegsende-id31518325.html</link>
+                <guid>https://www.n-tv.de/politik/politik_kommentare/Verhandlungen-zwischen-Russland-und-der-Ukraine-Niemand-glaubt-im-Ernst-an-ein-rasches-Kriegsende-id31518325.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 16:53:29 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518339/1794329056/Img_4_3/250/632216779.jpg" width="250" height="188" align="left" />Russland und die Ukraine verhandeln unter Vermittlung der USA in Abu Dhabi. Dass dabei ein Waffenstillstand herauskommt, ist ausgeschlossen. Es wird in den kommenden Monaten, vermutlich sogar Jahren, noch viel mehr Tote geben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518339/1794329056/Img_4_3/250/632216779.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verhandlungen in Abu Dhabi: Moskau und Kiew einigen sich offenbar auf Gefangenenaustausch</title>
+                <description>Erstmals seit acht Monaten verhandeln die Ukraine und Russland wieder miteinander. Unter US-Vermittlung geht es dabei um Sicherheitsgarantien und den Austausch von Gefangenen. Medienberichten zufolge gibt es bereits eine erste Einigung.</description>
+                <link>https://www.n-tv.de/politik/Moskau-und-Kiew-einigen-sich-offenbar-auf-Gefangenenaustausch-id31518303.html</link>
+                <guid>https://www.n-tv.de/politik/Moskau-und-Kiew-einigen-sich-offenbar-auf-Gefangenenaustausch-id31518303.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:24:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518487/1794330490/Img_4_3/250/632217037.jpg" width="250" height="188" align="left" />Erstmals seit acht Monaten verhandeln die Ukraine und Russland wieder miteinander. Unter US-Vermittlung geht es dabei um Sicherheitsgarantien und den Austausch von Gefangenen. Medienberichten zufolge gibt es bereits eine erste Einigung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518487/1794330490/Img_4_3/250/632217037.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Strom, Plastik, Zucker, Alkohol: Wegen dieser vier Punkte wackelt der Paradox-Haushalt </title>
+                <description>Diese Woche wird es ernst für Schwarz-Rot. In der Bereinigungssitzung am Donnerstag soll der Haushalt für das kommende Jahr endgültig geschnürt werden. Viele Fragen sind offen, insbesondere vier Punkte sind strittig.</description>
+                <link>https://www.n-tv.de/politik/Wegen-dieser-vier-Punkte-wackelt-der-Paradox-Haushalt-id31517943.html</link>
+                <guid>https://www.n-tv.de/politik/Wegen-dieser-vier-Punkte-wackelt-der-Paradox-Haushalt-id31517943.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 18:40:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517929/1794325345/Img_4_3/250/630784987.jpg" width="250" height="188" align="left" />Diese Woche wird es ernst für Schwarz-Rot. In der Bereinigungssitzung am Donnerstag soll der Haushalt für das kommende Jahr endgültig geschnürt werden. Viele Fragen sind offen, insbesondere vier Punkte sind strittig.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517929/1794325345/Img_4_3/250/630784987.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zweidrittelmehrheit nötig: Berliner Linke will umstrittene Abgeordnete Emde aus Fraktion ausschließen</title>
+                <description>Der Vorstand der Berliner Linksfraktion plant den Ausschluss von Vanessa Emde. Die Abgeordnete steht wegen ihrer Haltung zu Israel in der Kritik. Doch ob die nötige Mehrheit zustimmt, ist offen.</description>
+                <link>https://www.n-tv.de/politik/Berliner-Linke-will-umstrittene-Abgeordnete-Emde-aus-Fraktion-ausschliessen-id31518654.html</link>
+                <guid>https://www.n-tv.de/politik/Berliner-Linke-will-umstrittene-Abgeordnete-Emde-aus-Fraktion-ausschliessen-id31518654.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:43:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518692/1794333252/Img_4_3/250/630579445.jpg" width="250" height="188" align="left" />Der Vorstand der Berliner Linksfraktion plant den Ausschluss von Vanessa Emde. Die Abgeordnete steht wegen ihrer Haltung zu Israel in der Kritik. Doch ob die nötige Mehrheit zustimmt, ist offen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518692/1794333252/Img_4_3/250/630579445.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Was, welche Kriegsverbrechen?: US-Minister Hegseth sieht Sabotage, lobt sich und Trump</title>
+                <description>Es wird ungemütlich für Pentagon-Chef Hegseth, das Repräsentantenhaus könnte für ein Amtsenthebungsverfahren stimmen. Doch der selbstbetitelte &quot;Kriegsminister&quot; weist alle Vorwürfe über Amtsvergehen im Iran, der Karibik und im Jemen von sich. Wer militärisch gewinnt, ist demnach im Recht.</description>
+                <link>https://www.n-tv.de/politik/Dem-Iran-die-Zaehne-eingetreten-US-Minister-Hegseth-sieht-Sabotage-lobt-sich-und-Trump-id31518457.html</link>
+                <guid>https://www.n-tv.de/politik/Dem-Iran-die-Zaehne-eingetreten-US-Minister-Hegseth-sieht-Sabotage-lobt-sich-und-Trump-id31518457.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:51:24 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518496/1794330593/Img_4_3/250/2026-11-10T160105Z_1533004553_RC24LOAY8M8F_RTRMADP_3_USA-POLAND.jpg" width="250" height="188" align="left" />Es wird ungemütlich für Pentagon-Chef Hegseth, das Repräsentantenhaus könnte für ein Amtsenthebungsverfahren stimmen. Doch der selbstbetitelte "Kriegsminister" weist alle Vorwürfe über Amtsvergehen im Iran, der Karibik und im Jemen von sich. Wer militärisch gewinnt, ist demnach im Recht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518496/1794330593/Img_4_3/250/2026-11-10T160105Z_1533004553_RC24LOAY8M8F_RTRMADP_3_USA-POLAND.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Truth Social verliert weiter Geld: Trumps Netzwerk-Firma verbucht Riesengewinn trotz Minigeschäft</title>
+                <description>Das Unternehmen hinter Donald Trumps Netzwerk Truth Social schließt das vergangene Quartal mit einem Gewinn ab, der den Umsatz um mehr als das Hundertfache übersteigt. Trotz neuer Einnahmen durch einen teuren Exklusivzugang zur Plattform ist das Geschäft weiter defizitär. Das fällt in der Bilanz allerdings kaum ins Gewicht.</description>
+                <link>https://www.n-tv.de/wirtschaft/Trumps-Netzwerk-Firma-verbucht-Riesengewinn-trotz-Minigeschaeft-id31518357.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Trumps-Netzwerk-Firma-verbucht-Riesengewinn-trotz-Minigeschaeft-id31518357.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 17:52:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518299/1794328578/Img_4_3/250/imago0853954417h.jpg" width="250" height="188" align="left" />Das Unternehmen hinter Donald Trumps Netzwerk Truth Social schließt das vergangene Quartal mit einem Gewinn ab, der den Umsatz um mehr als das Hundertfache übersteigt. Trotz neuer Einnahmen durch einen teuren Exklusivzugang zur Plattform ist das Geschäft weiter defizitär. Das fällt in der Bilanz allerdings kaum ins Gewicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518299/1794328578/Img_4_3/250/imago0853954417h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Manipulation bis zum Mord : Das verstörende Bild der Gina H. – wer ist die Frau hinter der Akte?</title>
+                <description>Monatelang verbirgt Gina H. im Rostocker Gerichtssaal ihr Gesicht hinter einem roten Aktenordner. Nun wird sie wegen des Mordes am achtjährigen Fabian aus Güstrow zu einer lebenslangen Freiheitsstrafe verurteilt. Wer ist die Frau, die sich selbst als Opfer sieht, aber gleichzeitig offenbar alle manipuliert?</description>
+                <link>https://www.n-tv.de/panorama/Mordfall-Fabian-Gina-H-wer-ist-die-Frau-hinter-der-Akte-id31439928.html</link>
+                <guid>https://www.n-tv.de/panorama/Mordfall-Fabian-Gina-H-wer-ist-die-Frau-hinter-der-Akte-id31439928.html</guid>
+                <category>Panorama</category>
+                <pubDate>Tue, 10 Nov 2026 18:44:09 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517103/1794318588/Img_4_3/250/632218741.jpg" width="250" height="188" align="left" />Monatelang verbirgt Gina H. im Rostocker Gerichtssaal ihr Gesicht hinter einem roten Aktenordner. Nun wird sie wegen des Mordes am achtjährigen Fabian aus Güstrow zu einer lebenslangen Freiheitsstrafe verurteilt. Wer ist die Frau, die sich selbst als Opfer sieht, aber gleichzeitig offenbar alle manipuliert?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517103/1794318588/Img_4_3/250/632218741.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wer arbeitet, darf bleiben&quot;: SPD will Bleiberecht für arbeitende Geflüchtete</title>
+                <description>Die SPD-Bundestagsfraktion legt ein Positionspapier zur Zuwanderung vor. Gut integrierte Flüchtlinge mit Job, Ausbildung oder Pflegeaufgaben sollen dauerhaft in Deutschland bleiben dürfen. Der Koalitionsvertrag mit der Union sieht bislang deutlich engere Regeln vor.</description>
+                <link>https://www.n-tv.de/politik/SPD-will-Bleiberecht-fuer-arbeitende-Gefluechtete-id31518724.html</link>
+                <guid>https://www.n-tv.de/politik/SPD-will-Bleiberecht-fuer-arbeitende-Gefluechtete-id31518724.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 19:02:24 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518789/1794335054/Img_4_3/250/457877452.jpg" width="250" height="188" align="left" />Die SPD-Bundestagsfraktion legt ein Positionspapier zur Zuwanderung vor. Gut integrierte Flüchtlinge mit Job, Ausbildung oder Pflegeaufgaben sollen dauerhaft in Deutschland bleiben dürfen. Der Koalitionsvertrag mit der Union sieht bislang deutlich engere Regeln vor.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518789/1794335054/Img_4_3/250/457877452.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Krasse Veränderung&quot;: Füllkrug erklärt sich und ist von Klopp überrascht</title>
+                <description>Niclas Füllkrug ist zurück bei der deutschen Fußball-Nationalmannschaft. Der Bremer-Angreifer erzählt viel über sein Innenleben - und was er über sein Alter denkt.</description>
+                <link>https://www.n-tv.de/sport/fussball/Fuellkrug-erklaert-sich-und-ist-von-Klopp-ueberrascht-id31518399.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Fuellkrug-erklaert-sich-und-ist-von-Klopp-ueberrascht-id31518399.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 18:26:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518606/1794331889/Img_4_3/250/632228560.jpg" width="250" height="188" align="left" />Niclas Füllkrug ist zurück bei der deutschen Fußball-Nationalmannschaft. Der Bremer-Angreifer erzählt viel über sein Innenleben - und was er über sein Alter denkt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518606/1794331889/Img_4_3/250/632228560.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bierkonzern zückt den Rotstift: Warsteiner trennt sich in NRW von jedem dritten Mitarbeiter</title>
+                <description>Der Warsteiner Konzern zieht die Produktion in Nordrhein-Westfalen an einem einzigen Ort zusammen. Die Marken Herforder und Paderborner wandern an den Stammsitz, die bisherigen Brauereien stehen vor dem Aus. Mehr als 330 Mitarbeiter sind von den Umstrukturierungen betroffen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Warsteiner-trennt-sich-in-NRW-von-jedem-dritten-Mitarbeiter-id31518321.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Warsteiner-trennt-sich-in-NRW-von-jedem-dritten-Mitarbeiter-id31518321.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 18:11:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518400/1794329606/Img_4_3/250/592982069.jpg" width="250" height="188" align="left" />Der Warsteiner Konzern zieht die Produktion in Nordrhein-Westfalen an einem einzigen Ort zusammen. Die Marken Herforder und Paderborner wandern an den Stammsitz, die bisherigen Brauereien stehen vor dem Aus. Mehr als 330 Mitarbeiter sind von den Umstrukturierungen betroffen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518400/1794329606/Img_4_3/250/592982069.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sorge um Ehegattensplitting: Was, wenn die Steuerklassen III und V abgeschafft werden?</title>
+                <description>Finanzminister Klingbeil möchte eine Reform bei den Steuerklassen. Dieser würde die bei Eheleuten beliebte Kombination III und V zum Opfer fallen. Was das bedeutet und was zu tun ist, lesen Sie hier. </description>
+                <link>https://www.n-tv.de/ratgeber/Was-wenn-die-Steuerklassen-III-und-V-abgeschafft-werden-id31518389.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Was-wenn-die-Steuerklassen-III-und-V-abgeschafft-werden-id31518389.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Tue, 10 Nov 2026 17:31:34 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/3060185/1601457741/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Finanzminister Klingbeil möchte eine Reform bei den Steuerklassen. Dieser würde die bei Eheleuten beliebte Kombination III und V zum Opfer fallen. Was das bedeutet und was zu tun ist, lesen Sie hier. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/3060185/1601457741/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gesellschaften am Kipppunkt: Staaten drohen in einen gefährlichen Klima-Teufelskreis zu rutschen</title>
+                <description>Wachsende Klimaschäden sollten den Klimaschutz eigentlich beflügeln - doch das Gegenteil ist der Fall: Vielen Staaten bleibt immer weniger Kraft zur Gegenwehr. Forscher der University of Exeter warnen deshalb vor einem bislang unterschätzten Risiko.</description>
+                <link>https://www.n-tv.de/wissen/Staaten-drohen-in-einen-gefaehrlichen-Klima-Teufelskreis-zu-rutschen-id31515346.html</link>
+                <guid>https://www.n-tv.de/wissen/Staaten-drohen-in-einen-gefaehrlichen-Klima-Teufelskreis-zu-rutschen-id31515346.html</guid>
+                <category>Wissen</category>
+                <pubDate>Tue, 10 Nov 2026 18:44:57 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515675/1794306549/Img_4_3/250/492758753.jpg" width="250" height="188" align="left" />Wachsende Klimaschäden sollten den Klimaschutz eigentlich beflügeln - doch das Gegenteil ist der Fall: Vielen Staaten bleibt immer weniger Kraft zur Gegenwehr. Forscher der University of Exeter warnen deshalb vor einem bislang unterschätzten Risiko.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515675/1794306549/Img_4_3/250/492758753.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wir sind fassungslos&quot;: Maschinenbauer rechnen in Wutrede mit Merz-Regierung ab</title>
+                <description>Schon vor einem Jahr zeigen sich die deutschen Maschinenbauer empört über die Politik der Bundesregierung. Inzwischen ist die Wut offenbar noch einmal gewachsen, der Chef des Branchenverbandes VDMA erhebt schwere Vorwürfe. </description>
+                <link>https://www.n-tv.de/wirtschaft/Maschinenbauer-rechnen-in-Wutrede-mit-Merz-Regierung-ab-id31516174.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Maschinenbauer-rechnen-in-Wutrede-mit-Merz-Regierung-ab-id31516174.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 12:58:02 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516257/1794311837/Img_4_3/250/561730253.jpg" width="250" height="188" align="left" />Schon vor einem Jahr zeigen sich die deutschen Maschinenbauer empört über die Politik der Bundesregierung. Inzwischen ist die Wut offenbar noch einmal gewachsen, der Chef des Branchenverbandes VDMA erhebt schwere Vorwürfe. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516257/1794311837/Img_4_3/250/561730253.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bei Ehepaaren beliebt: Klingbeil will Steuerklassen III und V abschaffen</title>
+                <description>Finanzminister Klingbeil plant eine Reform, die Millionen Ehepaare betreffen könnte. Demnach soll sich die monatliche Lohnsteuer künftig automatisch am Einkommensverhältnis beider Partner orientieren. Die bisherige Kombination der Steuerklassen III und V würde damit wegfallen.</description>
+                <link>https://www.n-tv.de/politik/Klingbeil-will-Steuerklassen-III-und-V-abschaffen-id31517517.html</link>
+                <guid>https://www.n-tv.de/politik/Klingbeil-will-Steuerklassen-III-und-V-abschaffen-id31517517.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 15:36:36 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517523/1794322299/Img_4_3/250/586259792.jpg" width="250" height="188" align="left" />Finanzminister Klingbeil plant eine Reform, die Millionen Ehepaare betreffen könnte. Demnach soll sich die monatliche Lohnsteuer künftig automatisch am Einkommensverhältnis beider Partner orientieren. Die bisherige Kombination der Steuerklassen III und V würde damit wegfallen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517523/1794322299/Img_4_3/250/586259792.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Alternative zur AfD: Linke stellt Kandidatin zur Ministerpräsidentenwahl in Sachsen-Anhalt auf</title>
+                <description>Bei der für Dezember geplanten Ministerpräsidentenwahl in Sachsen-Anhalt könnte mit Ulrich Siegmund erstmals ein AfD-Politiker an die Spitze einer Landesregierung geraten. Das will eine Partei verhindern: Die Linke stellt eine eigene Kandidatin zur Wahl auf. </description>
+                <link>https://www.n-tv.de/politik/Fraktionschefin-Eva-von-Angern-tritt-bei-Wahl-des-Ministerpraesidenten-in-Sachsen-Anhalt-gegen-AfD-Politiker-Ulrich-Siegmund-an-id31517886.html</link>
+                <guid>https://www.n-tv.de/politik/Fraktionschefin-Eva-von-Angern-tritt-bei-Wahl-des-Ministerpraesidenten-in-Sachsen-Anhalt-gegen-AfD-Politiker-Ulrich-Siegmund-an-id31517886.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 16:41:38 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517930/1794325394/Img_4_3/250/632224312.jpg" width="250" height="188" align="left" />Bei der für Dezember geplanten Ministerpräsidentenwahl in Sachsen-Anhalt könnte mit Ulrich Siegmund erstmals ein AfD-Politiker an die Spitze einer Landesregierung geraten. Das will eine Partei verhindern: Die Linke stellt eine eigene Kandidatin zur Wahl auf. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517930/1794325394/Img_4_3/250/632224312.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wem schwört er Treue, Hamas?&quot;: Ben-Gvir sorgt bei erster Knesset-Sitzung nach Wahl für Aufruhr</title>
+                <description>Während in Israel die Gegner von Ministerpräsident Netanjahu um die Bildung einer neuen Regierung ringen, tritt die Knesset zum ersten Mal seit der Wahl zusammen. Bei der Vereidigungszeremonie der Abgeordneten kommt es zu einem Zwischenruf, der die Gemüter erhitzt.</description>
+                <link>https://www.n-tv.de/politik/Ben-Gvir-sorgt-bei-erster-Knesset-Sitzung-nach-Wahl-fuer-Aufruhr-id31518215.html</link>
+                <guid>https://www.n-tv.de/politik/Ben-Gvir-sorgt-bei-erster-Knesset-Sitzung-nach-Wahl-fuer-Aufruhr-id31518215.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:17:15 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518236/1794327973/Img_4_3/250/632236726.jpg" width="250" height="188" align="left" />Während in Israel die Gegner von Ministerpräsident Netanjahu um die Bildung einer neuen Regierung ringen, tritt die Knesset zum ersten Mal seit der Wahl zusammen. Bei der Vereidigungszeremonie der Abgeordneten kommt es zu einem Zwischenruf, der die Gemüter erhitzt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518236/1794327973/Img_4_3/250/632236726.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Umgehung von US-Sanktionen?: Geliebte des Nvidia-Chefs schleuste mutmaßlich KI-Chips nach China</title>
+                <description>Der intime Seitensprung des verheirateten Nvidia-Mitgründers Huang soll Peking laut einem Medienbericht Zugriff auf sensible KI-Technologie ermöglicht haben. Der Verwaltungsrat des Konzerns und das FBI leiten Ermittlungen ein.</description>
+                <link>https://www.n-tv.de/wirtschaft/Geliebte-des-Nvidia-Chefs-schleuste-mutmasslich-KI-Chips-nach-China-id31517600.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Geliebte-des-Nvidia-Chefs-schleuste-mutmasslich-KI-Chips-nach-China-id31517600.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:05:53 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517745/1794323889/Img_4_3/250/626800030.jpg" width="250" height="188" align="left" />Der intime Seitensprung des verheirateten Nvidia-Mitgründers Huang soll Peking laut einem Medienbericht Zugriff auf sensible KI-Technologie ermöglicht haben. Der Verwaltungsrat des Konzerns und das FBI leiten Ermittlungen ein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517745/1794323889/Img_4_3/250/626800030.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Verrückte&quot; Aufholjagd verblüfft: Max Verstappen hält den Formel-1-Computer zum Narren</title>
+                <description>Max Verstappen legt beim Formel-1-Rennen in Brasilien einmal mehr einen unvergleichlichen Husarenritt hin, straft bei seinem Durchpflügen des Feldes jegliche Computer-Hochrechnungen ab. &quot;Wie immer&quot;, sagt sein Chef lapidar.</description>
+                <link>https://www.n-tv.de/sport/formel1/Max-Verstappen-haelt-den-Formel-1-Computer-zum-Narren-id31517983.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Max-Verstappen-haelt-den-Formel-1-Computer-zum-Narren-id31517983.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 18:11:44 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517985/1794325928/Img_4_3/250/imago1085769172h.jpg" width="250" height="188" align="left" />Max Verstappen legt beim Formel-1-Rennen in Brasilien einmal mehr einen unvergleichlichen Husarenritt hin, straft bei seinem Durchpflügen des Feldes jegliche Computer-Hochrechnungen ab. "Wie immer", sagt sein Chef lapidar.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517985/1794325928/Img_4_3/250/imago1085769172h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bisher unbekannter Signalweg: Wie man Bitteres wie Kaffee lieben lernt</title>
+                <description>Kaffeeliebhaber trinken im Schnitt drei Tassen täglich. Viele davon können sich erinnern, dass ihnen das Getränk am Anfang nicht so gut geschmeckt hat. Forschende finden nun den Mechanismus dahinter.</description>
+                <link>https://www.n-tv.de/wissen/Wie-man-Bitteres-wie-Kaffee-lieben-lernt-id31515823.html</link>
+                <guid>https://www.n-tv.de/wissen/Wie-man-Bitteres-wie-Kaffee-lieben-lernt-id31515823.html</guid>
+                <category>Wissen</category>
+                <pubDate>Tue, 10 Nov 2026 13:31:05 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516097/1794309947/Img_4_3/250/imago0089866690h.jpg" width="250" height="188" align="left" />Kaffeeliebhaber trinken im Schnitt drei Tassen täglich. Viele davon können sich erinnern, dass ihnen das Getränk am Anfang nicht so gut geschmeckt hat. Forschende finden nun den Mechanismus dahinter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516097/1794309947/Img_4_3/250/imago0089866690h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Er war ein Menschenfreund&quot;: Bayern würdigt verstorbenen Aiwanger mit einem Trauerstaatsakt</title>
+                <description>In der Münchner Frauenkirche kommen am Samstag Vertreter aus Politik und Weggefährten zum Abschied von Hubert Aiwanger zusammen. Kardinal Reinhard Marx leitet die Totenmesse. Die Lebensgefährtin des Freie-Wähler-Chefs meldet sich mit emotionalen Worten bei Instagram.</description>
+                <link>https://www.n-tv.de/politik/Bayern-wuerdigt-verstorbenen-Aiwanger-mit-einem-Trauerstaatsakt-id31518116.html</link>
+                <guid>https://www.n-tv.de/politik/Bayern-wuerdigt-verstorbenen-Aiwanger-mit-einem-Trauerstaatsakt-id31518116.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 16:55:09 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518123/1794327198/Img_4_3/250/631324345.jpg" width="250" height="188" align="left" />In der Münchner Frauenkirche kommen am Samstag Vertreter aus Politik und Weggefährten zum Abschied von Hubert Aiwanger zusammen. Kardinal Reinhard Marx leitet die Totenmesse. Die Lebensgefährtin des Freie-Wähler-Chefs meldet sich mit emotionalen Worten bei Instagram.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518123/1794327198/Img_4_3/250/631324345.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Einsatz in Elbphilharmonie: Mann tötet zwei Menschen in BaWü - Verdächtiger tot in Hamburg gefunden </title>
+                <description>In der Hamburger Hafencity fallen am Morgen Schüsse. Zwei Menschen werden verletzt. Der mutmaßliche Schütze richtet sich später wohl selbst. Ermittler folgen seiner Spur zurück und finden zwei weitere Leichen in Baden-Württemberg.</description>
+                <link>https://www.n-tv.de/panorama/Mann-toetet-zwei-Menschen-in-BaWue-Verdaechtiger-tot-in-Hamburg-gefunden-id31515895.html</link>
+                <guid>https://www.n-tv.de/panorama/Mann-toetet-zwei-Menschen-in-BaWue-Verdaechtiger-tot-in-Hamburg-gefunden-id31515895.html</guid>
+                <category>Panorama</category>
+                <pubDate>Tue, 10 Nov 2026 16:15:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516161/1794310614/Img_4_3/250/image.jpg" width="250" height="188" align="left" />In der Hamburger Hafencity fallen am Morgen Schüsse. Zwei Menschen werden verletzt. Der mutmaßliche Schütze richtet sich später wohl selbst. Ermittler folgen seiner Spur zurück und finden zwei weitere Leichen in Baden-Württemberg.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516161/1794310614/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Autofahrer flüchtet: 14-jährige Radfahrerin stirbt bei Unfall in NRW</title>
+                <description>In Bornheim kommt es in den Morgenstunden zu einem tragischen Unfall. Beim Überholen eines anderen Autos erfasst ein Mini-Fahrer eine junge Fahrradfahrerin, die sofort ihr Leben verliert. Die Polizei sucht den Verursacher.</description>
+                <link>https://www.n-tv.de/panorama/14-jaehrige-Radfahrerin-stirbt-bei-Unfall-in-NRW-id31517131.html</link>
+                <guid>https://www.n-tv.de/panorama/14-jaehrige-Radfahrerin-stirbt-bei-Unfall-in-NRW-id31517131.html</guid>
+                <category>Panorama</category>
+                <pubDate>Tue, 10 Nov 2026 14:45:15 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517141/1794318876/Img_4_3/250/625438327.jpg" width="250" height="188" align="left" />In Bornheim kommt es in den Morgenstunden zu einem tragischen Unfall. Beim Überholen eines anderen Autos erfasst ein Mini-Fahrer eine junge Fahrradfahrerin, die sofort ihr Leben verliert. Die Polizei sucht den Verursacher.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517141/1794318876/Img_4_3/250/625438327.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bis Tempo 130: Cadillac Super Cruise - freihändig über die Autobahn</title>
+                <description>Cadillac bringt seinen Autobahnassistenten nach Europa. Die Kundschaft darf dann die Hände vom Lenkrad nehmen. Allerdings nur bis 130 km/h; zudem muss sie weiterhin aufmerksam sein und jederzeit eingreifen können.</description>
+                <link>https://www.n-tv.de/auto/Cadillac-Super-Cruise-freihaendig-ueber-die-Autobahn-id31510266.html</link>
+                <guid>https://www.n-tv.de/auto/Cadillac-Super-Cruise-freihaendig-ueber-die-Autobahn-id31510266.html</guid>
+                <category>Auto</category>
+                <pubDate>Tue, 10 Nov 2026 17:36:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31510275/1794209592/Img_4_3/250/cadillac-super-cruise-2.jpg" width="250" height="188" align="left" />Cadillac bringt seinen Autobahnassistenten nach Europa. Die Kundschaft darf dann die Hände vom Lenkrad nehmen. Allerdings nur bis 130 km/h; zudem muss sie weiterhin aufmerksam sein und jederzeit eingreifen können.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31510275/1794209592/Img_4_3/250/cadillac-super-cruise-2.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wir sind nur Bekannte&quot;: Ist Ex-Prinz Andrew neu verliebt?</title>
+                <description>Sein Ruf ist ruiniert, seine Titel futsch und seine Ehe mit Sarah Ferguson sowieso schon seit 30 Jahren perdu. Jetzt gibt es jedoch Gerüchte, Andrew Mountbatten-Windsor habe vielleicht eine neue Frau an seiner Seite. Das Dementi folgt prompt.</description>
+                <link>https://www.n-tv.de/leute/Ist-Ex-Prinz-Andrew-neu-verliebt-id31518426.html</link>
+                <guid>https://www.n-tv.de/leute/Ist-Ex-Prinz-Andrew-neu-verliebt-id31518426.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 18:30:52 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/30896076/1794336214/Img_4_3/250/596352980.jpg" width="250" height="188" align="left" />Sein Ruf ist ruiniert, seine Titel futsch und seine Ehe mit Sarah Ferguson sowieso schon seit 30 Jahren perdu. Jetzt gibt es jedoch Gerüchte, Andrew Mountbatten-Windsor habe vielleicht eine neue Frau an seiner Seite. Das Dementi folgt prompt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/30896076/1794336214/Img_4_3/250/596352980.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>David Walliams streitet alles ab: &quot;Little Britain&quot;-Star wird sexuelles Fehlverhalten vorgeworfen</title>
+                <description>Mehrere Frauen erheben schwere Vorwürfe gegen den britischen Comedian und Kinderbuchautor David Walliams. Der &quot;Little Britain&quot;-Star bestreitet die Anschuldigungen, deren Veröffentlichung er gerichtlich verhindern wollte.</description>
+                <link>https://www.n-tv.de/leute/Little-Britain-Star-David-Walliams-wird-sexuelles-Fehlverhalten-vorgeworfen-id31518135.html</link>
+                <guid>https://www.n-tv.de/leute/Little-Britain-Star-David-Walliams-wird-sexuelles-Fehlverhalten-vorgeworfen-id31518135.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 16:30:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518152/1794328225/Img_4_3/250/imago0417909605h.jpg" width="250" height="188" align="left" />Mehrere Frauen erheben schwere Vorwürfe gegen den britischen Comedian und Kinderbuchautor David Walliams. Der "Little Britain"-Star bestreitet die Anschuldigungen, deren Veröffentlichung er gerichtlich verhindern wollte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518152/1794328225/Img_4_3/250/imago0417909605h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Reality-Star bestreitet Vorwürfe: Yasin Mohamed legt Berufung gegen Vergewaltigungs-Urteil ein</title>
+                <description>Das Amtsgericht München verurteilt Yasin Mohamed wegen Vergewaltigung zu einer Bewährungsstrafe. Rechtskräftig ist die Entscheidung noch nicht. Der Reality-Star legt nun Berufung ein.</description>
+                <link>https://www.n-tv.de/leute/Yasin-Mohamed-legt-Berufung-gegen-Vergewaltigungs-Urteil-ein-id31517980.html</link>
+                <guid>https://www.n-tv.de/leute/Yasin-Mohamed-legt-Berufung-gegen-Vergewaltigungs-Urteil-ein-id31517980.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 17:09:10 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517970/1794325824/Img_4_3/250/588341750.jpg" width="250" height="188" align="left" />Das Amtsgericht München verurteilt Yasin Mohamed wegen Vergewaltigung zu einer Bewährungsstrafe. Rechtskräftig ist die Entscheidung noch nicht. Der Reality-Star legt nun Berufung ein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517970/1794325824/Img_4_3/250/588341750.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Erneut vor Gericht abgeblitzt: Marius Borg Høiby bleibt in Untersuchungshaft</title>
+                <description>Erst im Februar soll der Berufungsprozess von Marius Borg Høiby beginnen, der unter anderem wegen Vergewaltigung verurteilt wurde. Bis dahin würde der Sohn von Königin Mette-Marit gern auf freien Fuß kommen. Doch daraus wird nichts, wie nun endgültig feststeht.</description>
+                <link>https://www.n-tv.de/leute/Marius-Borg-Høiby-bleibt-in-Untersuchungshaft-id31518548.html</link>
+                <guid>https://www.n-tv.de/leute/Marius-Borg-Høiby-bleibt-in-Untersuchungshaft-id31518548.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 18:21:17 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31080479/1783953536/Img_4_3/250/572938169.jpg" width="250" height="188" align="left" />Erst im Februar soll der Berufungsprozess von Marius Borg Høiby beginnen, der unter anderem wegen Vergewaltigung verurteilt wurde. Bis dahin würde der Sohn von Königin Mette-Marit gern auf freien Fuß kommen. Doch daraus wird nichts, wie nun endgültig feststeht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31080479/1783953536/Img_4_3/250/572938169.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Essen als Traumabewältigung: Wie Andrea Kiewel und ihre Sorgen schlanker wurden</title>
+                <description>Als die Hamas am 7. Oktober 2023 Israel überfällt, sucht &quot;Fernsehgarten&quot;-Moderatorin Andrea Kiewel Halt in &quot;emotionalem Trostessen&quot;. Sie nimmt zu. Heute ist sie 15 Kilo leichter und verrät, wie sie das geschafft hat.</description>
+                <link>https://www.n-tv.de/leute/Wie-Andrea-Kiewel-und-ihre-Sorgen-schlanker-wurden-id31515820.html</link>
+                <guid>https://www.n-tv.de/leute/Wie-Andrea-Kiewel-und-ihre-Sorgen-schlanker-wurden-id31515820.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 11:08:05 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515870/1794308103/Img_4_3/250/621973387.jpg" width="250" height="188" align="left" />Als die Hamas am 7. Oktober 2023 Israel überfällt, sucht "Fernsehgarten"-Moderatorin Andrea Kiewel Halt in "emotionalem Trostessen". Sie nimmt zu. Heute ist sie 15 Kilo leichter und verrät, wie sie das geschafft hat.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515870/1794308103/Img_4_3/250/621973387.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Sehr viel Glück&quot; gehabt: Pur-Sänger Hartmut Engler hatte einen Herzinfarkt</title>
+                <description>Hinter Hartmut Engler liegen gesundheitlich herausfordernde Zeiten. Der Frontmann der Band Pur offenbart, dass er kurz vor seinem 64. Geburtstag einen schweren Herzinfarkt erlitten hat. Diese Grenzerfahrung hat er musikalisch verarbeitet.</description>
+                <link>https://www.n-tv.de/leute/Pur-Saenger-Hartmut-Engler-hatte-einen-Herzinfarkt-id31516332.html</link>
+                <guid>https://www.n-tv.de/leute/Pur-Saenger-Hartmut-Engler-hatte-einen-Herzinfarkt-id31516332.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Tue, 10 Nov 2026 12:59:16 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516342/1794312100/Img_4_3/250/imago0832773304h.jpg" width="250" height="188" align="left" />Hinter Hartmut Engler liegen gesundheitlich herausfordernde Zeiten. Der Frontmann der Band Pur offenbart, dass er kurz vor seinem 64. Geburtstag einen schweren Herzinfarkt erlitten hat. Diese Grenzerfahrung hat er musikalisch verarbeitet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516342/1794312100/Img_4_3/250/imago0832773304h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gericht schafft Klarheit: Baubeginn nicht angezeigt? Genehmigung verfällt nicht </title>
+                <description>Auf der Baustelle geht es schon kräftig zur Sache, aber die Baubeginnsanzeige fehlt? Die Genehmigung ist dann trotzdem nicht automatisch weg. Worauf es laut einem Gerichtsurteil stattdessen ankommt.</description>
+                <link>https://www.n-tv.de/ratgeber/Baubeginn-nicht-angezeigt-Genehmigung-verfaellt-nicht-id31515000.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Baubeginn-nicht-angezeigt-Genehmigung-verfaellt-nicht-id31515000.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Tue, 10 Nov 2026 13:29:34 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31513277/1794300844/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Auf der Baustelle geht es schon kräftig zur Sache, aber die Baubeginnsanzeige fehlt? Die Genehmigung ist dann trotzdem nicht automatisch weg. Worauf es laut einem Gerichtsurteil stattdessen ankommt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31513277/1794300844/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Teheran wirtschaftlich am Boden?: Rubio schließt größere US-Angriffe auf den Iran vorerst aus</title>
+                <description>Seit Februar tobt der Krieg zwischen den USA und dem Iran. Nun deutet Washington eine Atempause an und setzt auf wirtschaftliche Hebel. Hinter den Kulissen laufen zähe Vermittlungsversuche über Katar und Pakistan.</description>
+                <link>https://www.n-tv.de/politik/Rubio-schliesst-groessere-US-Angriffe-auf-den-Iran-vorerst-aus-id31517986.html</link>
+                <guid>https://www.n-tv.de/politik/Rubio-schliesst-groessere-US-Angriffe-auf-den-Iran-vorerst-aus-id31517986.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 17:10:57 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31518004/1794326130/Img_4_3/250/632111008.jpg" width="250" height="188" align="left" />Seit Februar tobt der Krieg zwischen den USA und dem Iran. Nun deutet Washington eine Atempause an und setzt auf wirtschaftliche Hebel. Hinter den Kulissen laufen zähe Vermittlungsversuche über Katar und Pakistan.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31518004/1794326130/Img_4_3/250/632111008.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Rot-Rot-Grün in MV auf dem Weg: Schwesig einigt sich mit Linken und Grünen auf Koalitionsvertrag</title>
+                <description>Vier Wochen lang verhandeln SPD, Linke und Grüne in Mecklenburg-Vorpommern über eine gemeinsame Regierung. Nun steht das Koalitionsprogramm. Schon kommende Woche soll die Wiederwahl Schwesigs als Regierungschefin folgen.</description>
+                <link>https://www.n-tv.de/politik/Schwesig-einigt-sich-mit-Linken-und-Gruenen-auf-Koalitionsvertrag-id31517692.html</link>
+                <guid>https://www.n-tv.de/politik/Schwesig-einigt-sich-mit-Linken-und-Gruenen-auf-Koalitionsvertrag-id31517692.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 16:33:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517722/1794323653/Img_4_3/250/632230126.jpg" width="250" height="188" align="left" />Vier Wochen lang verhandeln SPD, Linke und Grüne in Mecklenburg-Vorpommern über eine gemeinsame Regierung. Nun steht das Koalitionsprogramm. Schon kommende Woche soll die Wiederwahl Schwesigs als Regierungschefin folgen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517722/1794323653/Img_4_3/250/632230126.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Reportern mit Rauswurf gedroht: Hegseth nennt mögliches Impeachment &quot;Schauprozess&quot;</title>
+                <description>US-Verteidigungsminister Hegseth steht nach der Wahlniederlage der Republikaner besonders unter Druck, weil er für den Iran-Krieg steht. Nun droht ihm ein Amtsenthebungsverfahren. Darauf reagiert Hegseth vor der Presse gewohnt angriffslustig. Die Journalisten bekommen vorher eine ungewöhnliche Ansage.</description>
+                <link>https://www.n-tv.de/politik/Hegseth-nennt-moegliches-Impeachment-Schauprozess-id31517579.html</link>
+                <guid>https://www.n-tv.de/politik/Hegseth-nennt-moegliches-Impeachment-Schauprozess-id31517579.html</guid>
+                <category>Politik</category>
+                <pubDate>Tue, 10 Nov 2026 15:30:02 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517590/1794322732/Img_4_3/250/632231173.jpg" width="250" height="188" align="left" />US-Verteidigungsminister Hegseth steht nach der Wahlniederlage der Republikaner besonders unter Druck, weil er für den Iran-Krieg steht. Nun droht ihm ein Amtsenthebungsverfahren. Darauf reagiert Hegseth vor der Presse gewohnt angriffslustig. Die Journalisten bekommen vorher eine ungewöhnliche Ansage.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517590/1794322732/Img_4_3/250/632231173.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Abzocke beenden&quot;: Preisdeckel für Ticketbörsen soll vor nächstem Sommer kommen</title>
+                <description>Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen. </description>
+                <link>https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:31:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517677/1794324325/Img_4_3/250/601408838.jpg" width="250" height="188" align="left" />Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517677/1794324325/Img_4_3/250/601408838.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Einnahmen in Milliardenhöhe: Anthropic strebt Börsengang mit Billionen-Bewertung an</title>
+                <description>Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.</description>
+                <link>https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 16:06:32 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg" width="250" height="188" align="left" />Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trotz Wirtschaftswachstum: IW-Umfrage: Stimmung in Unternehmen durchwachsen </title>
+                <description>Eine neue Umfrage des Instituts der deutschen Wirtschaft zeigt anhaltende Konjunktursorgen. Jedes dritte befragte Unternehmen plant weniger Menschen zu beschäftigen. </description>
+                <link>https://www.n-tv.de/wirtschaft/IW-Umfrage-Unternehmen-erwarten-keinen-Aufschwung-im-naechsten-Jahr-id31516365.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/IW-Umfrage-Unternehmen-erwarten-keinen-Aufschwung-im-naechsten-Jahr-id31516365.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Tue, 10 Nov 2026 14:53:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516706/1794315396/Img_4_3/250/396647296.jpg" width="250" height="188" align="left" />Eine neue Umfrage des Instituts der deutschen Wirtschaft zeigt anhaltende Konjunktursorgen. Jedes dritte befragte Unternehmen plant weniger Menschen zu beschäftigen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516706/1794315396/Img_4_3/250/396647296.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schumacher legt nach: Hamilton für Ferrari-Führungsanspruch &quot;einfach nicht schnell genug&quot;</title>
+                <description>Nach ihrem Mexiko-Zoff rauchen die Ferrari-Fahrer Lewis Hamilton und Charles Leclerc in Brasilien die Friedenspfeife. Dafür legt Formel-1-Experte Ralf Schumacher in seiner Kritik an Hamilton nach.</description>
+                <link>https://www.n-tv.de/sport/formel1/Hamilton-fuer-Ferrari-Fuehrungsanspruch-einfach-nicht-schnell-genug-id31516844.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Hamilton-fuer-Ferrari-Fuehrungsanspruch-einfach-nicht-schnell-genug-id31516844.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 16:07:18 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516834/1794316251/Img_4_3/250/imago1085742968h.jpg" width="250" height="188" align="left" />Nach ihrem Mexiko-Zoff rauchen die Ferrari-Fahrer Lewis Hamilton und Charles Leclerc in Brasilien die Friedenspfeife. Dafür legt Formel-1-Experte Ralf Schumacher in seiner Kritik an Hamilton nach.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516834/1794316251/Img_4_3/250/imago1085742968h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Free the Elephant&quot;: Munich Game der NFL: PETA fordert Namensänderung der Halbzeit-Band</title>
+                <description>Die Band &quot;Cage the Elephant&quot; ist der Halbzeit-Act beim Munich Game der NFL am kommenden Sonntag. Geht es nach der Tierschutzorganisation PETA, sollte sich die Gruppe zumindest vorerst umbenennen.</description>
+                <link>https://www.n-tv.de/sport/nfl/Munich-Game-der-NFL-PETA-fordert-Namensaenderung-der-Halbzeit-Band-id31517982.html</link>
+                <guid>https://www.n-tv.de/sport/nfl/Munich-Game-der-NFL-PETA-fordert-Namensaenderung-der-Halbzeit-Band-id31517982.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 17:07:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517971/1794325722/Img_4_3/250/imago0862816649h.jpg" width="250" height="188" align="left" />Die Band "Cage the Elephant" ist der Halbzeit-Act beim Munich Game der NFL am kommenden Sonntag. Geht es nach der Tierschutzorganisation PETA, sollte sich die Gruppe zumindest vorerst umbenennen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517971/1794325722/Img_4_3/250/imago0862816649h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bringt Gegner zum &quot;Verzweifeln&quot;: Box-Ikone Maske deckt Weltmeister Kabayel mit Lob ein</title>
+                <description>Mit Agit Kabayel verteidigt zum ersten Mal ein deutscher Weltmeister im Schwergewicht den Titel in Deutschland. Box-Ikone Henry Maske erkennt bei Kabayel die Aura eines unerschütterlichen Siegers.</description>
+                <link>https://www.n-tv.de/sport/Box-Ikone-Maske-deckt-Weltmeister-Kabayel-mit-Lob-ein-id31517666.html</link>
+                <guid>https://www.n-tv.de/sport/Box-Ikone-Maske-deckt-Weltmeister-Kabayel-mit-Lob-ein-id31517666.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 15:18:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517668/1794323266/Img_4_3/250/imago0046985698h.jpg" width="250" height="188" align="left" />Mit Agit Kabayel verteidigt zum ersten Mal ein deutscher Weltmeister im Schwergewicht den Titel in Deutschland. Box-Ikone Henry Maske erkennt bei Kabayel die Aura eines unerschütterlichen Siegers.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517668/1794323266/Img_4_3/250/imago0046985698h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Folgen für &quot;Ballers in God&quot;?: BVB fordert Nmecha zu Verzicht des Kronen-Jubels auf</title>
+                <description>Der umstrittene Kronen-Jubel von Felix Nmecha beschäftigt auch seinen Klub Borussia Dortmund. Berichten zufolge soll der BVB den Nationalspieler auffordern, die Geste zu unterlassen.</description>
+                <link>https://www.n-tv.de/sport/fussball/BVB-fordert-Nmecha-zu-Verzicht-des-Kronen-Jubels-auf-id31517492.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/BVB-fordert-Nmecha-zu-Verzicht-des-Kronen-Jubels-auf-id31517492.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 17:55:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31517502/1794326790/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der umstrittene Kronen-Jubel von Felix Nmecha beschäftigt auch seinen Klub Borussia Dortmund. Berichten zufolge soll der BVB den Nationalspieler auffordern, die Geste zu unterlassen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31517502/1794326790/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fadenscheinige Erklärung: Nmecha spielt den Kronzeugen schlecht</title>
+                <description>Felix Nmecha ist ganz überrascht. Seine Jubelgeste erzeugt ja Empörung. Die Erklärung, die der Fußballer des BVB und des DFB-Teams liefert, ist dabei gar keine. Von Distanzierung keine Spur, im Gegenteil. </description>
+                <link>https://www.n-tv.de/sport/fussball/Nmecha-spielt-den-Kronzeugen-schlecht-id31515828.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Nmecha-spielt-den-Kronzeugen-schlecht-id31515828.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 13:40:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516041/1794309587/Img_4_3/250/632146108.jpg" width="250" height="188" align="left" />Felix Nmecha ist ganz überrascht. Seine Jubelgeste erzeugt ja Empörung. Die Erklärung, die der Fußballer des BVB und des DFB-Teams liefert, ist dabei gar keine. Von Distanzierung keine Spur, im Gegenteil. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516041/1794309587/Img_4_3/250/632146108.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Krankheit des Bayern-Stars: Hoeneß-Aussagen zu Musiala schütteln Sammer &quot;in der Magengegend&quot; durch</title>
+                <description>Uli Hoeneß spricht über Jamal Musiala, dessen Krankheit, Zweifel an der Leistungsfähigkeit und den hochdotierten Vertrag des Jungstars beim FC Bayern. Das kommt bei vielen nicht gut an. Auch Matthias Sammer hat ein ungutes Gefühl.</description>
+                <link>https://www.n-tv.de/sport/fussball/Hoeness-Aussagen-zu-Musiala-schuetteln-Sammer-in-der-Magengegend-durch-id31516495.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Hoeness-Aussagen-zu-Musiala-schuetteln-Sammer-in-der-Magengegend-durch-id31516495.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 13:10:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516488/1794313524/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Uli Hoeneß spricht über Jamal Musiala, dessen Krankheit, Zweifel an der Leistungsfähigkeit und den hochdotierten Vertrag des Jungstars beim FC Bayern. Das kommt bei vielen nicht gut an. Auch Matthias Sammer hat ein ungutes Gefühl.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516488/1794313524/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Kollaps wieder da: Bayern-Trainer Kompany arbeitet schon wieder an der Säbener Straße</title>
+                <description>Uli Hoeneß stellt ein baldiges Comeback von Vincent Kompany nach der Länderspielpause in Aussicht - und der Belgier ist auch schon wieder an der Säbener Straße. Die Visite nährt die Hoffnung des FC Bayern auf eine schnelle Rückkehr des Cheftrainers.</description>
+                <link>https://www.n-tv.de/sport/fussball/Bayern-Trainer-Kompany-arbeitet-schon-wieder-an-der-Saebener-Strasse-id31516244.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Bayern-Trainer-Kompany-arbeitet-schon-wieder-an-der-Saebener-Strasse-id31516244.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 12:01:45 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31400063/1791545618/Img_4_3/250/imago1083686046h.jpg" width="250" height="188" align="left" />Uli Hoeneß stellt ein baldiges Comeback von Vincent Kompany nach der Länderspielpause in Aussicht - und der Belgier ist auch schon wieder an der Säbener Straße. Die Visite nährt die Hoffnung des FC Bayern auf eine schnelle Rückkehr des Cheftrainers.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31400063/1791545618/Img_4_3/250/imago1083686046h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Entscheidung noch diese Woche: Packender FIFA-Machtkampf: Tritt Wenger gegen Infantino an?</title>
+                <description>Die Bewerbungsfrist für Kandidaten um den FIFA-Chefposten läuft in einer Woche ab. Der weltweit geschätzte Ex-Trainer Arsène Wenger könnte den umstrittenen Amtsinhaber Gianni Infantino herausfordern - obwohl die beiden derzeit noch zusammenarbeiten.</description>
+                <link>https://www.n-tv.de/sport/fussball/Packender-FIFA-Machtkampf-Tritt-Wenger-gegen-Infantino-an-id31515495.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Packender-FIFA-Machtkampf-Tritt-Wenger-gegen-Infantino-an-id31515495.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 11:42:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515364/1794305141/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Bewerbungsfrist für Kandidaten um den FIFA-Chefposten läuft in einer Woche ab. Der weltweit geschätzte Ex-Trainer Arsène Wenger könnte den umstrittenen Amtsinhaber Gianni Infantino herausfordern - obwohl die beiden derzeit noch zusammenarbeiten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515364/1794305141/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Alles Rangnick: Ein Teamchef, der sich nicht bremsen lässt </title>
+                <description>Ralf Rangnick scheut keine öffentlichen Auseinandersetzungen. In Österreich genießt der 68-Jährige, der seit Juni 2022 als ÖFB-Teamchef im Amt ist, weiterhin ein hohes Ansehen. Mit seinen Aussagen eckt er allerdings regelmäßig bei der Verbandsspitze und in der Politik an.</description>
+                <link>https://www.n-tv.de/sport/fussball/Ein-Teamchef-der-sich-nicht-bremsen-laesst-id31512228.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Ein-Teamchef-der-sich-nicht-bremsen-laesst-id31512228.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 10:09:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31512062/1794232524/Img_4_3/250/imago1083901445h.jpg" width="250" height="188" align="left" />Ralf Rangnick scheut keine öffentlichen Auseinandersetzungen. In Österreich genießt der 68-Jährige, der seit Juni 2022 als ÖFB-Teamchef im Amt ist, weiterhin ein hohes Ansehen. Mit seinen Aussagen eckt er allerdings regelmäßig bei der Verbandsspitze und in der Politik an.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31512062/1794232524/Img_4_3/250/imago1083901445h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klopp-Team in Belgrad gefordert: 11 aus 24 - Wählen Sie Ihre DFB-Wunschelf</title>
+                <description></description>
+                <link>https://www.n-tv.de/sport/fussball/11-aus-24-Waehlen-Sie-Ihre-DFB-Wunschelf-id31515651.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/11-aus-24-Waehlen-Sie-Ihre-DFB-Wunschelf-id31515651.html</guid>
+                <category>Sport</category>
+                <pubDate>Tue, 10 Nov 2026 10:29:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31345680/1790289226/Img_4_3/250/image.jpg" width="250" height="188" align="left" />]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31345680/1790289226/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Prozessauftakt in Berlin: Verteidigung kritisiert Staatsanwalt im Schlesinger-Prozess</title>
+                <description>Im Prozess um einen der größten Skandale in der Geschichte der ARD weist die Verteidigung die Vorwürfe gegen Ex-RBB-Intendantin Patricia Schlesinger zurück. Die Staatsanwaltschaft habe bei den Ermittlungen nicht objektiv gearbeitet, heißt es am ersten Verhandlungstag. </description>
+                <link>https://www.n-tv.de/panorama/Verteidigung-kritisiert-Staatsanwalt-im-Schlesinger-Prozess-id31516712.html</link>
+                <guid>https://www.n-tv.de/panorama/Verteidigung-kritisiert-Staatsanwalt-im-Schlesinger-Prozess-id31516712.html</guid>
+                <category>Panorama</category>
+                <pubDate>Tue, 10 Nov 2026 13:57:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516726/1794315602/Img_4_3/250/632213182.jpg" width="250" height="188" align="left" />Im Prozess um einen der größten Skandale in der Geschichte der ARD weist die Verteidigung die Vorwürfe gegen Ex-RBB-Intendantin Patricia Schlesinger zurück. Die Staatsanwaltschaft habe bei den Ermittlungen nicht objektiv gearbeitet, heißt es am ersten Verhandlungstag. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516726/1794315602/Img_4_3/250/632213182.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>17 Tote, ein Dutzend Verletzte: Sechs Festnahmen nach tödlichem Unfall in türkischem Stahlwerk</title>
+                <description>In einem türkischen Stahlwerk kommt es am Montag zu einem schweren Unglück. 17 Menschen sterben, ein Dutzend weitere werden verletzt. Die mangelnde Sicherheit in Betrieben des Landes ist ein Dauerthema. Bei sechs möglichen Verantwortlichen klicken nun die Handschellen. </description>
+                <link>https://www.n-tv.de/panorama/Sechs-Festnahmen-nach-toedlichem-Unfall-in-tuerkischem-Stahlwerk-id31516311.html</link>
+                <guid>https://www.n-tv.de/panorama/Sechs-Festnahmen-nach-toedlichem-Unfall-in-tuerkischem-Stahlwerk-id31516311.html</guid>
+                <category>Panorama</category>
+                <pubDate>Tue, 10 Nov 2026 13:00:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516305/1794311858/Img_4_3/250/AFP__20261109__D6WH9CQ__v1__HighRes__TurkeyIndustryAccident.jpg" width="250" height="188" align="left" />In einem türkischen Stahlwerk kommt es am Montag zu einem schweren Unglück. 17 Menschen sterben, ein Dutzend weitere werden verletzt. Die mangelnde Sicherheit in Betrieben des Landes ist ein Dauerthema. Bei sechs möglichen Verantwortlichen klicken nun die Handschellen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516305/1794311858/Img_4_3/250/AFP__20261109__D6WH9CQ__v1__HighRes__TurkeyIndustryAccident.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
