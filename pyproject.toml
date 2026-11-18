@@ -7,7 +7,7 @@ name = "ntv-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for n-tv news (n-tv.de) — headlines, markets, videos & articles"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
